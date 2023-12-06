@@ -41,7 +41,7 @@
 
                 <v-card-actions>
                     <v-btn icon @click="del(book)">
-                        <v-icon>delete</v-icon>
+                        <v-icon>mdi-delete</v-icon>
                     </v-btn>
 
                     <v-col cols="12" md="3">
@@ -71,7 +71,7 @@
         <v-alert v-if="isBuying"
                 color="deep-orange"
                 dark
-                icon="tag_faces"
+                icon="mdi-tag-faces"
                 border="left"
                 prominent
         >

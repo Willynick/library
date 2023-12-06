@@ -1,0 +1,892 @@
+2023-12-04 23:38:37 INFO  MainController:58 - Try to load the main page
+2023-12-04 23:38:37 ERROR ControllerUtils:45 - User are not find by principal
+2023-12-04 23:38:37 INFO  MainController:92 - User are not authorized
+2023-12-04 23:38:37 DEBUG cache:45 - Couldn't find template in cache for "index.ftlh"("en", UTF-8, parsed); will try to load it.
+2023-12-04 23:38:37 DEBUG cache:45 - TemplateLoader.findTemplateSource("index_en.ftlh"): Not found
+2023-12-04 23:38:37 DEBUG cache:45 - TemplateLoader.findTemplateSource("index.ftlh"): Not found
+2023-12-04 23:38:37 INFO  MainController:58 - Try to load the main page
+2023-12-04 23:38:37 ERROR ControllerUtils:45 - User are not find by principal
+2023-12-04 23:38:37 INFO  MainController:92 - User are not authorized
+2023-12-04 23:38:37 DEBUG cache:45 - "index.ftlh"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-12-04 23:38:38 DEBUG cache:45 - Couldn't find template in cache for "login.ftlh"("en", UTF-8, parsed); will try to load it.
+2023-12-04 23:38:38 DEBUG cache:45 - TemplateLoader.findTemplateSource("login_en.ftlh"): Not found
+2023-12-04 23:38:38 DEBUG cache:45 - TemplateLoader.findTemplateSource("login.ftlh"): Found
+2023-12-04 23:38:38 DEBUG cache:45 - Loading template for "login.ftlh"("en", UTF-8, parsed) from "D:\\GIT storage\\library\\target\\classes\\templates\\login.ftlh"
+2023-12-04 23:38:38 DEBUG cache:45 - "login.ftlh"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-12-04 23:38:38 DEBUG cache:45 - Couldn't find template in cache for "parts/common.ftlh"("en", UTF-8, parsed); will try to load it.
+2023-12-04 23:38:38 DEBUG cache:45 - TemplateLoader.findTemplateSource("parts/common_en.ftlh"): Not found
+2023-12-04 23:38:38 DEBUG cache:45 - TemplateLoader.findTemplateSource("parts/common.ftlh"): Found
+2023-12-04 23:38:38 DEBUG cache:45 - Loading template for "parts/common.ftlh"("en", UTF-8, parsed) from "D:\\GIT storage\\library\\target\\classes\\templates\\parts\\common.ftlh"
+2023-12-04 23:38:38 DEBUG cache:45 - Couldn't find template in cache for "parts/login.ftlh"("en", UTF-8, parsed); will try to load it.
+2023-12-04 23:38:38 DEBUG cache:45 - TemplateLoader.findTemplateSource("parts/login_en.ftlh"): Not found
+2023-12-04 23:38:38 DEBUG cache:45 - TemplateLoader.findTemplateSource("parts/login.ftlh"): Found
+2023-12-04 23:38:38 DEBUG cache:45 - Loading template for "parts/login.ftlh"("en", UTF-8, parsed) from "D:\\GIT storage\\library\\target\\classes\\templates\\parts\\login.ftlh"
+2023-12-04 23:39:37 DEBUG cache:45 - TemplateLoader.findTemplateSource("login_en.ftlh"): Not found
+2023-12-04 23:39:37 DEBUG cache:45 - TemplateLoader.findTemplateSource("login.ftlh"): Found
+2023-12-04 23:39:37 DEBUG cache:45 - "login.ftlh"("en", UTF-8, parsed): using cached since D:\GIT storage\library\target\classes\templates\login.ftlh hasn't changed.
+2023-12-04 23:39:37 DEBUG cache:45 - "login.ftlh"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-12-04 23:39:37 DEBUG cache:45 - TemplateLoader.findTemplateSource("parts/common_en.ftlh"): Not found
+2023-12-04 23:39:37 DEBUG cache:45 - TemplateLoader.findTemplateSource("parts/common.ftlh"): Found
+2023-12-04 23:39:37 DEBUG cache:45 - "parts/common.ftlh"("en", UTF-8, parsed): using cached since D:\GIT storage\library\target\classes\templates\parts\common.ftlh hasn't changed.
+2023-12-04 23:39:37 DEBUG cache:45 - TemplateLoader.findTemplateSource("parts/login_en.ftlh"): Not found
+2023-12-04 23:39:37 DEBUG cache:45 - TemplateLoader.findTemplateSource("parts/login.ftlh"): Found
+2023-12-04 23:39:37 DEBUG cache:45 - "parts/login.ftlh"("en", UTF-8, parsed): using cached since D:\GIT storage\library\target\classes\templates\parts\login.ftlh hasn't changed.
+2023-12-04 23:39:43 DEBUG cache:45 - TemplateLoader.findTemplateSource("login_en.ftlh"): Not found
+2023-12-04 23:39:43 DEBUG cache:45 - TemplateLoader.findTemplateSource("login.ftlh"): Found
+2023-12-04 23:39:43 DEBUG cache:45 - "login.ftlh"("en", UTF-8, parsed): using cached since D:\GIT storage\library\target\classes\templates\login.ftlh hasn't changed.
+2023-12-04 23:39:43 DEBUG cache:45 - "login.ftlh"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-12-04 23:39:43 DEBUG cache:45 - TemplateLoader.findTemplateSource("parts/common_en.ftlh"): Not found
+2023-12-04 23:39:43 DEBUG cache:45 - TemplateLoader.findTemplateSource("parts/common.ftlh"): Found
+2023-12-04 23:39:43 DEBUG cache:45 - "parts/common.ftlh"("en", UTF-8, parsed): using cached since D:\GIT storage\library\target\classes\templates\parts\common.ftlh hasn't changed.
+2023-12-04 23:39:43 DEBUG cache:45 - TemplateLoader.findTemplateSource("parts/login_en.ftlh"): Not found
+2023-12-04 23:39:43 DEBUG cache:45 - TemplateLoader.findTemplateSource("parts/login.ftlh"): Found
+2023-12-04 23:39:43 DEBUG cache:45 - "parts/login.ftlh"("en", UTF-8, parsed): using cached since D:\GIT storage\library\target\classes\templates\parts\login.ftlh hasn't changed.
+2023-12-04 23:39:49 INFO  MainController:58 - Try to load the main page
+2023-12-04 23:39:49 ERROR ControllerUtils:45 - User are not find by principal
+2023-12-04 23:39:49 INFO  MainController:92 - User are not authorized
+2023-12-04 23:39:49 DEBUG cache:45 - TemplateLoader.findTemplateSource("index_en.ftlh"): Not found
+2023-12-04 23:39:49 DEBUG cache:45 - TemplateLoader.findTemplateSource("index.ftlh"): Not found
+2023-12-04 23:39:49 DEBUG cache:45 - "index.ftlh"("en", UTF-8, parsed) no source found.
+2023-12-04 23:39:49 DEBUG cache:45 - TemplateLoader.findTemplateSource("login_en.ftlh"): Not found
+2023-12-04 23:39:49 DEBUG cache:45 - TemplateLoader.findTemplateSource("login.ftlh"): Found
+2023-12-04 23:39:49 DEBUG cache:45 - "login.ftlh"("en", UTF-8, parsed): using cached since D:\GIT storage\library\target\classes\templates\login.ftlh hasn't changed.
+2023-12-04 23:39:49 DEBUG cache:45 - "login.ftlh"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-12-04 23:39:49 DEBUG cache:45 - TemplateLoader.findTemplateSource("parts/common_en.ftlh"): Not found
+2023-12-04 23:39:49 DEBUG cache:45 - TemplateLoader.findTemplateSource("parts/common.ftlh"): Found
+2023-12-04 23:39:49 DEBUG cache:45 - "parts/common.ftlh"("en", UTF-8, parsed): using cached since D:\GIT storage\library\target\classes\templates\parts\common.ftlh hasn't changed.
+2023-12-04 23:39:49 DEBUG cache:45 - TemplateLoader.findTemplateSource("parts/login_en.ftlh"): Not found
+2023-12-04 23:39:49 DEBUG cache:45 - TemplateLoader.findTemplateSource("parts/login.ftlh"): Found
+2023-12-04 23:39:49 DEBUG cache:45 - "parts/login.ftlh"("en", UTF-8, parsed): using cached since D:\GIT storage\library\target\classes\templates\parts\login.ftlh hasn't changed.
+2023-12-04 23:39:51 DEBUG cache:45 - "login.ftlh"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-12-04 23:39:51 DEBUG cache:45 - "login.ftlh"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-12-04 23:39:51 DEBUG cache:45 - "parts/common.ftlh"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-12-04 23:39:51 DEBUG cache:45 - "parts/login.ftlh"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-12-04 23:39:51 DEBUG cache:45 - "login.ftlh"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-12-04 23:39:51 DEBUG cache:45 - "login.ftlh"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-12-04 23:39:51 DEBUG cache:45 - "parts/common.ftlh"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-12-04 23:39:51 DEBUG cache:45 - "parts/login.ftlh"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-12-04 23:40:12 DEBUG cache:45 - Couldn't find template in cache for "registration.ftlh"("en", UTF-8, parsed); will try to load it.
+2023-12-04 23:40:12 DEBUG cache:45 - TemplateLoader.findTemplateSource("registration_en.ftlh"): Not found
+2023-12-04 23:40:12 DEBUG cache:45 - TemplateLoader.findTemplateSource("registration.ftlh"): Found
+2023-12-04 23:40:12 DEBUG cache:45 - Loading template for "registration.ftlh"("en", UTF-8, parsed) from "D:\\GIT storage\\library\\target\\classes\\templates\\registration.ftlh"
+2023-12-04 23:40:12 DEBUG cache:45 - "registration.ftlh"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-12-04 23:40:12 DEBUG cache:45 - TemplateLoader.findTemplateSource("parts/common_en.ftlh"): Not found
+2023-12-04 23:40:12 DEBUG cache:45 - TemplateLoader.findTemplateSource("parts/common.ftlh"): Found
+2023-12-04 23:40:12 DEBUG cache:45 - "parts/common.ftlh"("en", UTF-8, parsed): using cached since D:\GIT storage\library\target\classes\templates\parts\common.ftlh hasn't changed.
+2023-12-04 23:40:12 DEBUG cache:45 - TemplateLoader.findTemplateSource("parts/login_en.ftlh"): Not found
+2023-12-04 23:40:12 DEBUG cache:45 - TemplateLoader.findTemplateSource("parts/login.ftlh"): Found
+2023-12-04 23:40:12 DEBUG cache:45 - "parts/login.ftlh"("en", UTF-8, parsed): using cached since D:\GIT storage\library\target\classes\templates\parts\login.ftlh hasn't changed.
+2023-12-04 23:40:13 DEBUG cache:45 - TemplateLoader.findTemplateSource("login_en.ftlh"): Not found
+2023-12-04 23:40:13 DEBUG cache:45 - TemplateLoader.findTemplateSource("login.ftlh"): Found
+2023-12-04 23:40:13 DEBUG cache:45 - "login.ftlh"("en", UTF-8, parsed): using cached since D:\GIT storage\library\target\classes\templates\login.ftlh hasn't changed.
+2023-12-04 23:40:13 DEBUG cache:45 - "login.ftlh"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-12-04 23:40:13 DEBUG cache:45 - "parts/common.ftlh"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-12-04 23:40:13 DEBUG cache:45 - "parts/login.ftlh"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-12-04 23:40:45 DEBUG cache:45 - TemplateLoader.findTemplateSource("login_en.ftlh"): Not found
+2023-12-04 23:40:45 DEBUG cache:45 - TemplateLoader.findTemplateSource("login.ftlh"): Found
+2023-12-04 23:40:45 DEBUG cache:45 - "login.ftlh"("en", UTF-8, parsed): using cached since D:\GIT storage\library\target\classes\templates\login.ftlh hasn't changed.
+2023-12-04 23:40:45 DEBUG cache:45 - "login.ftlh"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-12-04 23:40:45 DEBUG cache:45 - TemplateLoader.findTemplateSource("parts/common_en.ftlh"): Not found
+2023-12-04 23:40:45 DEBUG cache:45 - TemplateLoader.findTemplateSource("parts/common.ftlh"): Found
+2023-12-04 23:40:45 DEBUG cache:45 - "parts/common.ftlh"("en", UTF-8, parsed): using cached since D:\GIT storage\library\target\classes\templates\parts\common.ftlh hasn't changed.
+2023-12-04 23:40:45 DEBUG cache:45 - TemplateLoader.findTemplateSource("parts/login_en.ftlh"): Not found
+2023-12-04 23:40:45 DEBUG cache:45 - TemplateLoader.findTemplateSource("parts/login.ftlh"): Found
+2023-12-04 23:40:45 DEBUG cache:45 - "parts/login.ftlh"("en", UTF-8, parsed): using cached since D:\GIT storage\library\target\classes\templates\parts\login.ftlh hasn't changed.
+2023-12-04 23:40:45 DEBUG cache:45 - "login.ftlh"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-12-04 23:40:45 DEBUG cache:45 - "login.ftlh"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-12-04 23:40:45 DEBUG cache:45 - "parts/common.ftlh"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-12-04 23:40:45 DEBUG cache:45 - "parts/login.ftlh"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-12-04 23:40:53 INFO  MainController:58 - Try to load the main page
+2023-12-04 23:40:53 DEBUG cache:45 - TemplateLoader.findTemplateSource("index_en.ftlh"): Not found
+2023-12-04 23:40:53 DEBUG cache:45 - TemplateLoader.findTemplateSource("index.ftlh"): Not found
+2023-12-04 23:40:53 DEBUG cache:45 - "index.ftlh"("en", UTF-8, parsed) no source found.
+2023-12-04 23:40:54 INFO  MainController:58 - Try to load the main page
+2023-12-04 23:40:54 DEBUG cache:45 - "index.ftlh"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-12-04 23:40:54 INFO  MainController:58 - Try to load the main page
+2023-12-04 23:40:54 DEBUG cache:45 - "index.ftlh"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-12-04 23:41:34 INFO  MainController:58 - Try to load the main page
+2023-12-04 23:41:34 DEBUG cache:45 - TemplateLoader.findTemplateSource("index_en.ftlh"): Not found
+2023-12-04 23:41:34 DEBUG cache:45 - TemplateLoader.findTemplateSource("index.ftlh"): Not found
+2023-12-04 23:41:34 DEBUG cache:45 - "index.ftlh"("en", UTF-8, parsed) no source found.
+2023-12-04 23:41:42 INFO  MainController:58 - Try to load the main page
+2023-12-04 23:41:42 DEBUG cache:45 - TemplateLoader.findTemplateSource("index_en.ftlh"): Not found
+2023-12-04 23:41:42 DEBUG cache:45 - TemplateLoader.findTemplateSource("index.ftlh"): Not found
+2023-12-04 23:41:42 DEBUG cache:45 - "index.ftlh"("en", UTF-8, parsed) no source found.
+2023-12-04 23:42:55 INFO  MainController:58 - Try to load the main page
+2023-12-04 23:42:55 DEBUG cache:45 - TemplateLoader.findTemplateSource("index_en.ftlh"): Not found
+2023-12-04 23:42:55 DEBUG cache:45 - TemplateLoader.findTemplateSource("index.ftlh"): Not found
+2023-12-04 23:42:55 DEBUG cache:45 - "index.ftlh"("en", UTF-8, parsed) no source found.
+2023-12-04 23:44:00 INFO  MainController:58 - Try to load the main page
+2023-12-04 23:44:00 DEBUG cache:45 - TemplateLoader.findTemplateSource("index_en.ftlh"): Not found
+2023-12-04 23:44:00 DEBUG cache:45 - TemplateLoader.findTemplateSource("index.ftlh"): Not found
+2023-12-04 23:44:00 DEBUG cache:45 - "index.ftlh"("en", UTF-8, parsed) no source found.
+2023-12-04 23:44:01 INFO  MainController:58 - Try to load the main page
+2023-12-04 23:44:01 DEBUG cache:45 - "index.ftlh"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-12-04 23:45:59 INFO  MainController:58 - Try to load the main page
+2023-12-04 23:45:59 DEBUG cache:45 - TemplateLoader.findTemplateSource("index_en.ftlh"): Not found
+2023-12-04 23:45:59 DEBUG cache:45 - TemplateLoader.findTemplateSource("index.ftlh"): Not found
+2023-12-04 23:45:59 DEBUG cache:45 - "index.ftlh"("en", UTF-8, parsed) no source found.
+2023-12-04 23:45:59 ERROR BookController:96 - There are some errors with update file in book: Book(id=3, title=Master and Margaritc, description=fdffddfdf, author=Authpr auth, yearOfPublishing=2001, price=100.0, numberOfCopies=10, numberOfUnoccupied=9)File: org.springframework.web.multipart.support.StandardMultipartHttpServletRequest$StandardMultipartFile@55abeffd. Message: java.io.FileNotFoundException: C:\Users\geral\AppData\Local\Temp\tomcat.4061521317386565136.8080\work\Tomcat\localhost\ROOT\uploads\696a10f6-3ceb-4d4f-abd7-9521ea38991d.Шоколадный протеиновый коктейль.png (The system cannot find the path specified)
+2023-12-04 23:45:59 ERROR BookController:111 - There are some errors with update PDF file in book: Book(id=3, title=Master and Margaritc, description=fdffddfdf, author=Authpr auth, yearOfPublishing=2001, price=100.0, numberOfCopies=10, numberOfUnoccupied=9)File: org.springframework.web.multipart.support.StandardMultipartHttpServletRequest$StandardMultipartFile@42f2736c. Message: java.io.FileNotFoundException: C:\Users\geral\AppData\Local\Temp\tomcat.4061521317386565136.8080\work\Tomcat\localhost\ROOT\uploads\3d22a0dc-d41b-48da-8d92-896582df09a7.UML_ITMO.pdf (The system cannot find the path specified)
+2023-12-04 23:46:18 INFO  MainController:58 - Try to load the main page
+2023-12-04 23:46:18 DEBUG cache:45 - TemplateLoader.findTemplateSource("index_en.ftlh"): Not found
+2023-12-04 23:46:18 DEBUG cache:45 - TemplateLoader.findTemplateSource("index.ftlh"): Not found
+2023-12-04 23:46:18 DEBUG cache:45 - "index.ftlh"("en", UTF-8, parsed) no source found.
+2023-12-04 23:46:19 INFO  MainController:58 - Try to load the main page
+2023-12-04 23:46:19 DEBUG cache:45 - "index.ftlh"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-12-04 23:47:12 ERROR BookController:96 - There are some errors with update file in book: Book(id=3, title=Master and Margaritc, description=fdffddfdf, author=Authpr auth, yearOfPublishing=2001, price=100.0, numberOfCopies=10, numberOfUnoccupied=9)File: org.springframework.web.multipart.support.StandardMultipartHttpServletRequest$StandardMultipartFile@3054aa19. Message: java.io.FileNotFoundException: C:\Users\geral\AppData\Local\Temp\tomcat.4061521317386565136.8080\work\Tomcat\localhost\ROOT\uploads\9669a108-3080-4417-a03f-554736e9678c.Шоколадный протеиновый коктейль.png (The system cannot find the path specified)
+2023-12-04 23:47:20 ERROR BookController:111 - There are some errors with update PDF file in book: Book(id=3, title=Master and Margaritc, description=fdffddfdf, author=Authpr auth, yearOfPublishing=2001, price=100.0, numberOfCopies=10, numberOfUnoccupied=9)File: org.springframework.web.multipart.support.StandardMultipartHttpServletRequest$StandardMultipartFile@290da61c. Message: java.io.FileNotFoundException: C:\Users\geral\AppData\Local\Temp\tomcat.4061521317386565136.8080\work\Tomcat\localhost\ROOT\uploads\ebf3647d-91cb-4edc-9e9e-2ad3b73cd5fe.UML_ITMO.pdf (The system cannot find the path specified)
+2023-12-04 23:48:42 ERROR BookController:96 - There are some errors with update file in book: Book(id=3, title=Master and Margaritc, description=fdffddfdf, author=Authpr auth, yearOfPublishing=2001, price=100.0, numberOfCopies=10, numberOfUnoccupied=9)File: org.springframework.web.multipart.support.StandardMultipartHttpServletRequest$StandardMultipartFile@4e576353. Message: java.io.FileNotFoundException: C:\Users\geral\AppData\Local\Temp\tomcat.4061521317386565136.8080\work\Tomcat\localhost\ROOT\uploads\eb2c9e98-dc2c-4463-a896-ba0d3874bd2f.5afee410-3b62-408d-9ecd-77c33b5d569a.4-ZlkXjuHh0.jpg (The system cannot find the path specified)
+2023-12-04 23:48:42 ERROR BookController:111 - There are some errors with update PDF file in book: Book(id=3, title=Master and Margaritc, description=fdffddfdf, author=Authpr auth, yearOfPublishing=2001, price=100.0, numberOfCopies=10, numberOfUnoccupied=9)File: org.springframework.web.multipart.support.StandardMultipartHttpServletRequest$StandardMultipartFile@447f71fc. Message: java.io.FileNotFoundException: C:\Users\geral\AppData\Local\Temp\tomcat.4061521317386565136.8080\work\Tomcat\localhost\ROOT\uploads\f6d94dd6-4e23-4baa-b487-18900d68df36.5cbd3469-7f0a-4220-9e8a-d6ce5748c9a7.Helga-Out-of-Hedgelands.pdf (The system cannot find the path specified)
+2023-12-04 23:48:46 INFO  MainController:58 - Try to load the main page
+2023-12-04 23:48:46 DEBUG cache:45 - TemplateLoader.findTemplateSource("index_en.ftlh"): Not found
+2023-12-04 23:48:46 DEBUG cache:45 - TemplateLoader.findTemplateSource("index.ftlh"): Not found
+2023-12-04 23:48:46 DEBUG cache:45 - "index.ftlh"("en", UTF-8, parsed) no source found.
+2023-12-04 23:48:46 INFO  MainController:58 - Try to load the main page
+2023-12-04 23:48:46 DEBUG cache:45 - "index.ftlh"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-12-04 23:48:57 ERROR BookController:96 - There are some errors with update file in book: Book(id=3, title=Master and Margaritc, description=fdffddfdf, author=Authpr auth, yearOfPublishing=2001, price=100.0, numberOfCopies=10, numberOfUnoccupied=9)File: org.springframework.web.multipart.support.StandardMultipartHttpServletRequest$StandardMultipartFile@270670b8. Message: java.io.FileNotFoundException: C:\Users\geral\AppData\Local\Temp\tomcat.4061521317386565136.8080\work\Tomcat\localhost\ROOT\uploads\ecea9df4-e9c8-4d4a-81f8-b1dd30858b2a.8c8ccc17-1d54-4d2e-b6de-2b033f3c513c.VidbirStickersByOGAEUkraine2.png (The system cannot find the path specified)
+2023-12-04 23:49:50 INFO  MainController:58 - Try to load the main page
+2023-12-04 23:49:50 ERROR ControllerUtils:45 - User are not find by principal
+2023-12-04 23:49:50 INFO  MainController:92 - User are not authorized
+2023-12-04 23:49:50 DEBUG cache:45 - TemplateLoader.findTemplateSource("index_en.ftlh"): Not found
+2023-12-04 23:49:50 DEBUG cache:45 - TemplateLoader.findTemplateSource("index.ftlh"): Not found
+2023-12-04 23:49:50 DEBUG cache:45 - "index.ftlh"("en", UTF-8, parsed) no source found.
+2023-12-04 23:49:54 DEBUG cache:45 - TemplateLoader.findTemplateSource("login_en.ftlh"): Not found
+2023-12-04 23:49:54 DEBUG cache:45 - TemplateLoader.findTemplateSource("login.ftlh"): Found
+2023-12-04 23:49:54 DEBUG cache:45 - "login.ftlh"("en", UTF-8, parsed): using cached since D:\GIT storage\library\target\classes\templates\login.ftlh hasn't changed.
+2023-12-04 23:49:54 DEBUG cache:45 - "login.ftlh"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-12-04 23:49:54 DEBUG cache:45 - TemplateLoader.findTemplateSource("parts/common_en.ftlh"): Not found
+2023-12-04 23:49:54 DEBUG cache:45 - TemplateLoader.findTemplateSource("parts/common.ftlh"): Found
+2023-12-04 23:49:54 DEBUG cache:45 - "parts/common.ftlh"("en", UTF-8, parsed): using cached since D:\GIT storage\library\target\classes\templates\parts\common.ftlh hasn't changed.
+2023-12-04 23:49:54 DEBUG cache:45 - TemplateLoader.findTemplateSource("parts/login_en.ftlh"): Not found
+2023-12-04 23:49:54 DEBUG cache:45 - TemplateLoader.findTemplateSource("parts/login.ftlh"): Found
+2023-12-04 23:49:54 DEBUG cache:45 - "parts/login.ftlh"("en", UTF-8, parsed): using cached since D:\GIT storage\library\target\classes\templates\parts\login.ftlh hasn't changed.
+2023-12-04 23:49:58 DEBUG cache:45 - "login.ftlh"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-12-04 23:49:58 DEBUG cache:45 - "login.ftlh"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-12-04 23:49:58 DEBUG cache:45 - "parts/common.ftlh"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-12-04 23:49:58 DEBUG cache:45 - "parts/login.ftlh"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-12-04 23:50:00 DEBUG cache:45 - TemplateLoader.findTemplateSource("login_en.ftlh"): Not found
+2023-12-04 23:50:00 DEBUG cache:45 - TemplateLoader.findTemplateSource("login.ftlh"): Found
+2023-12-04 23:50:00 DEBUG cache:45 - "login.ftlh"("en", UTF-8, parsed): using cached since D:\GIT storage\library\target\classes\templates\login.ftlh hasn't changed.
+2023-12-04 23:50:00 DEBUG cache:45 - "login.ftlh"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-12-04 23:50:00 DEBUG cache:45 - TemplateLoader.findTemplateSource("parts/common_en.ftlh"): Not found
+2023-12-04 23:50:00 DEBUG cache:45 - TemplateLoader.findTemplateSource("parts/common.ftlh"): Found
+2023-12-04 23:50:00 DEBUG cache:45 - "parts/common.ftlh"("en", UTF-8, parsed): using cached since D:\GIT storage\library\target\classes\templates\parts\common.ftlh hasn't changed.
+2023-12-04 23:50:00 DEBUG cache:45 - TemplateLoader.findTemplateSource("parts/login_en.ftlh"): Not found
+2023-12-04 23:50:00 DEBUG cache:45 - TemplateLoader.findTemplateSource("parts/login.ftlh"): Found
+2023-12-04 23:50:00 DEBUG cache:45 - "parts/login.ftlh"("en", UTF-8, parsed): using cached since D:\GIT storage\library\target\classes\templates\parts\login.ftlh hasn't changed.
+2023-12-04 23:50:03 DEBUG cache:45 - "login.ftlh"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-12-04 23:50:03 DEBUG cache:45 - "login.ftlh"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-12-04 23:50:03 DEBUG cache:45 - "parts/common.ftlh"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-12-04 23:50:03 DEBUG cache:45 - "parts/login.ftlh"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-12-04 23:50:06 INFO  MainController:58 - Try to load the main page
+2023-12-04 23:50:06 DEBUG cache:45 - TemplateLoader.findTemplateSource("index_en.ftlh"): Not found
+2023-12-04 23:50:06 DEBUG cache:45 - TemplateLoader.findTemplateSource("index.ftlh"): Not found
+2023-12-04 23:50:06 DEBUG cache:45 - "index.ftlh"("en", UTF-8, parsed) no source found.
+2023-12-04 23:50:06 INFO  MainController:58 - Try to load the main page
+2023-12-04 23:50:06 DEBUG cache:45 - "index.ftlh"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-12-04 23:50:11 INFO  MainController:58 - Try to load the main page
+2023-12-04 23:50:11 DEBUG cache:45 - "index.ftlh"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-12-04 23:50:22 INFO  MainController:58 - Try to load the main page
+2023-12-04 23:50:22 DEBUG cache:45 - TemplateLoader.findTemplateSource("index_en.ftlh"): Not found
+2023-12-04 23:50:22 DEBUG cache:45 - TemplateLoader.findTemplateSource("index.ftlh"): Not found
+2023-12-04 23:50:22 DEBUG cache:45 - "index.ftlh"("en", UTF-8, parsed) no source found.
+2023-12-04 23:50:55 INFO  MainController:58 - Try to load the main page
+2023-12-04 23:50:55 DEBUG cache:45 - TemplateLoader.findTemplateSource("index_en.ftlh"): Not found
+2023-12-04 23:50:55 DEBUG cache:45 - TemplateLoader.findTemplateSource("index.ftlh"): Not found
+2023-12-04 23:50:55 DEBUG cache:45 - "index.ftlh"("en", UTF-8, parsed) no source found.
+2023-12-04 23:51:17 INFO  MainController:58 - Try to load the main page
+2023-12-04 23:51:17 DEBUG cache:45 - TemplateLoader.findTemplateSource("index_en.ftlh"): Not found
+2023-12-04 23:51:17 DEBUG cache:45 - TemplateLoader.findTemplateSource("index.ftlh"): Not found
+2023-12-04 23:51:17 DEBUG cache:45 - "index.ftlh"("en", UTF-8, parsed) no source found.
+2023-12-06 20:37:16 INFO  MainController:58 - Try to load the main page
+2023-12-06 20:37:16 ERROR ControllerUtils:45 - User are not find by principal
+2023-12-06 20:37:16 INFO  MainController:92 - User are not authorized
+2023-12-06 20:37:16 DEBUG cache:45 - Couldn't find template in cache for "index.ftlh"("en", UTF-8, parsed); will try to load it.
+2023-12-06 20:37:16 DEBUG cache:45 - TemplateLoader.findTemplateSource("index_en.ftlh"): Not found
+2023-12-06 20:37:16 DEBUG cache:45 - TemplateLoader.findTemplateSource("index.ftlh"): Not found
+2023-12-06 20:37:17 DEBUG cache:45 - Couldn't find template in cache for "login.ftlh"("en", UTF-8, parsed); will try to load it.
+2023-12-06 20:37:17 DEBUG cache:45 - TemplateLoader.findTemplateSource("login_en.ftlh"): Not found
+2023-12-06 20:37:17 DEBUG cache:45 - TemplateLoader.findTemplateSource("login.ftlh"): Found
+2023-12-06 20:37:17 DEBUG cache:45 - Loading template for "login.ftlh"("en", UTF-8, parsed) from "D:\\GIT storage\\library\\target\\classes\\templates\\login.ftlh"
+2023-12-06 20:37:17 DEBUG cache:45 - "login.ftlh"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-12-06 20:37:17 DEBUG cache:45 - Couldn't find template in cache for "parts/common.ftlh"("en", UTF-8, parsed); will try to load it.
+2023-12-06 20:37:17 DEBUG cache:45 - TemplateLoader.findTemplateSource("parts/common_en.ftlh"): Not found
+2023-12-06 20:37:17 DEBUG cache:45 - TemplateLoader.findTemplateSource("parts/common.ftlh"): Found
+2023-12-06 20:37:17 DEBUG cache:45 - Loading template for "parts/common.ftlh"("en", UTF-8, parsed) from "D:\\GIT storage\\library\\target\\classes\\templates\\parts\\common.ftlh"
+2023-12-06 20:37:17 DEBUG cache:45 - Couldn't find template in cache for "parts/login.ftlh"("en", UTF-8, parsed); will try to load it.
+2023-12-06 20:37:17 DEBUG cache:45 - TemplateLoader.findTemplateSource("parts/login_en.ftlh"): Not found
+2023-12-06 20:37:17 DEBUG cache:45 - TemplateLoader.findTemplateSource("parts/login.ftlh"): Found
+2023-12-06 20:37:17 DEBUG cache:45 - Loading template for "parts/login.ftlh"("en", UTF-8, parsed) from "D:\\GIT storage\\library\\target\\classes\\templates\\parts\\login.ftlh"
+2023-12-06 20:37:24 INFO  MainController:58 - Try to load the main page
+2023-12-06 20:37:24 INFO  UserService:61 - User are not finding by google ID
+2023-12-06 20:37:24 DEBUG cache:45 - TemplateLoader.findTemplateSource("index_en.ftlh"): Not found
+2023-12-06 20:37:24 DEBUG cache:45 - TemplateLoader.findTemplateSource("index.ftlh"): Not found
+2023-12-06 20:37:24 DEBUG cache:45 - "index.ftlh"("en", UTF-8, parsed) no source found.
+2023-12-06 20:37:24 INFO  MainController:58 - Try to load the main page
+2023-12-06 20:37:24 INFO  UserService:61 - User are not finding by google ID
+2023-12-06 20:37:24 DEBUG cache:45 - "index.ftlh"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-12-06 20:37:25 INFO  MainController:58 - Try to load the main page
+2023-12-06 20:37:25 INFO  UserService:61 - User are not finding by google ID
+2023-12-06 20:37:25 DEBUG cache:45 - "index.ftlh"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-12-06 20:44:29 INFO  MainController:58 - Try to load the main page
+2023-12-06 20:44:29 INFO  UserService:61 - User are not finding by google ID
+2023-12-06 20:44:29 DEBUG cache:45 - TemplateLoader.findTemplateSource("index_en.ftlh"): Not found
+2023-12-06 20:44:29 DEBUG cache:45 - TemplateLoader.findTemplateSource("index.ftlh"): Not found
+2023-12-06 20:44:29 DEBUG cache:45 - "index.ftlh"("en", UTF-8, parsed) no source found.
+2023-12-06 20:47:33 INFO  MainController:58 - Try to load the main page
+2023-12-06 20:47:33 INFO  UserService:61 - User are not finding by google ID
+2023-12-06 20:47:33 DEBUG cache:45 - TemplateLoader.findTemplateSource("index_en.ftlh"): Not found
+2023-12-06 20:47:33 DEBUG cache:45 - TemplateLoader.findTemplateSource("index.ftlh"): Not found
+2023-12-06 20:47:33 DEBUG cache:45 - "index.ftlh"("en", UTF-8, parsed) no source found.
+2023-12-06 20:47:40 INFO  MainController:58 - Try to load the main page
+2023-12-06 20:47:40 INFO  UserService:61 - User are not finding by google ID
+2023-12-06 20:47:40 DEBUG cache:45 - TemplateLoader.findTemplateSource("index_en.ftlh"): Not found
+2023-12-06 20:47:40 DEBUG cache:45 - TemplateLoader.findTemplateSource("index.ftlh"): Not found
+2023-12-06 20:47:40 DEBUG cache:45 - "index.ftlh"("en", UTF-8, parsed) no source found.
+2023-12-06 20:47:41 INFO  MainController:58 - Try to load the main page
+2023-12-06 20:47:41 INFO  UserService:61 - User are not finding by google ID
+2023-12-06 20:47:41 DEBUG cache:45 - "index.ftlh"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-12-06 20:47:42 INFO  MainController:58 - Try to load the main page
+2023-12-06 20:47:42 INFO  UserService:61 - User are not finding by google ID
+2023-12-06 20:47:42 DEBUG cache:45 - "index.ftlh"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-12-06 20:47:45 INFO  MainController:58 - Try to load the main page
+2023-12-06 20:47:45 INFO  UserService:61 - User are not finding by google ID
+2023-12-06 20:47:45 DEBUG cache:45 - "index.ftlh"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-12-06 20:47:45 INFO  MainController:58 - Try to load the main page
+2023-12-06 20:47:45 INFO  UserService:61 - User are not finding by google ID
+2023-12-06 20:47:45 DEBUG cache:45 - TemplateLoader.findTemplateSource("index_en.ftlh"): Not found
+2023-12-06 20:47:45 DEBUG cache:45 - TemplateLoader.findTemplateSource("index.ftlh"): Not found
+2023-12-06 20:47:45 DEBUG cache:45 - "index.ftlh"("en", UTF-8, parsed) no source found.
+2023-12-06 20:48:56 INFO  MainController:58 - Try to load the main page
+2023-12-06 20:48:56 INFO  UserService:61 - User are not finding by google ID
+2023-12-06 20:48:56 DEBUG cache:45 - TemplateLoader.findTemplateSource("index_en.ftlh"): Not found
+2023-12-06 20:48:56 DEBUG cache:45 - TemplateLoader.findTemplateSource("index.ftlh"): Not found
+2023-12-06 20:48:56 DEBUG cache:45 - "index.ftlh"("en", UTF-8, parsed) no source found.
+2023-12-06 20:49:00 INFO  MainController:58 - Try to load the main page
+2023-12-06 20:49:00 INFO  UserService:61 - User are not finding by google ID
+2023-12-06 20:49:00 DEBUG cache:45 - "index.ftlh"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-12-06 20:49:01 INFO  MainController:58 - Try to load the main page
+2023-12-06 20:49:01 INFO  UserService:61 - User are not finding by google ID
+2023-12-06 20:49:01 DEBUG cache:45 - TemplateLoader.findTemplateSource("index_en.ftlh"): Not found
+2023-12-06 20:49:01 DEBUG cache:45 - TemplateLoader.findTemplateSource("index.ftlh"): Not found
+2023-12-06 20:49:01 DEBUG cache:45 - "index.ftlh"("en", UTF-8, parsed) no source found.
+2023-12-06 20:49:02 INFO  MainController:58 - Try to load the main page
+2023-12-06 20:49:02 INFO  UserService:61 - User are not finding by google ID
+2023-12-06 20:49:02 DEBUG cache:45 - "index.ftlh"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-12-06 20:49:04 INFO  MainController:58 - Try to load the main page
+2023-12-06 20:49:04 INFO  UserService:61 - User are not finding by google ID
+2023-12-06 20:49:04 DEBUG cache:45 - "index.ftlh"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-12-06 20:49:04 INFO  MainController:58 - Try to load the main page
+2023-12-06 20:49:04 INFO  UserService:61 - User are not finding by google ID
+2023-12-06 20:49:04 DEBUG cache:45 - "index.ftlh"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-12-06 20:49:07 INFO  UserService:61 - User are not finding by google ID
+2023-12-06 20:49:33 INFO  MainController:58 - Try to load the main page
+2023-12-06 20:49:33 INFO  UserService:61 - User are not finding by google ID
+2023-12-06 20:49:33 DEBUG cache:45 - TemplateLoader.findTemplateSource("index_en.ftlh"): Not found
+2023-12-06 20:49:33 DEBUG cache:45 - TemplateLoader.findTemplateSource("index.ftlh"): Not found
+2023-12-06 20:49:33 DEBUG cache:45 - "index.ftlh"("en", UTF-8, parsed) no source found.
+2023-12-06 20:49:33 INFO  UserService:61 - User are not finding by google ID
+2023-12-06 20:49:36 INFO  MainController:58 - Try to load the main page
+2023-12-06 20:49:36 INFO  UserService:61 - User are not finding by google ID
+2023-12-06 20:49:36 DEBUG cache:45 - "index.ftlh"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-12-06 20:49:36 INFO  UserService:61 - User are not finding by google ID
+2023-12-06 20:49:42 INFO  UserService:61 - User are not finding by google ID
+2023-12-06 20:53:30 INFO  MainController:58 - Try to load the main page
+2023-12-06 20:53:30 INFO  UserService:61 - User are not finding by google ID
+2023-12-06 20:53:30 DEBUG cache:45 - TemplateLoader.findTemplateSource("index_en.ftlh"): Not found
+2023-12-06 20:53:30 DEBUG cache:45 - TemplateLoader.findTemplateSource("index.ftlh"): Not found
+2023-12-06 20:53:30 DEBUG cache:45 - "index.ftlh"("en", UTF-8, parsed) no source found.
+2023-12-06 20:53:30 INFO  UserService:61 - User are not finding by google ID
+2023-12-06 20:53:35 INFO  MainController:58 - Try to load the main page
+2023-12-06 20:53:35 INFO  UserService:61 - User are not finding by google ID
+2023-12-06 20:53:35 DEBUG cache:45 - TemplateLoader.findTemplateSource("index_en.ftlh"): Not found
+2023-12-06 20:53:35 DEBUG cache:45 - TemplateLoader.findTemplateSource("index.ftlh"): Not found
+2023-12-06 20:53:35 DEBUG cache:45 - "index.ftlh"("en", UTF-8, parsed) no source found.
+2023-12-06 20:53:36 INFO  UserService:61 - User are not finding by google ID
+2023-12-06 20:53:37 INFO  MainController:58 - Try to load the main page
+2023-12-06 20:53:37 INFO  UserService:61 - User are not finding by google ID
+2023-12-06 20:53:37 DEBUG cache:45 - "index.ftlh"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-12-06 20:53:40 INFO  MainController:58 - Try to load the main page
+2023-12-06 20:53:40 INFO  UserService:61 - User are not finding by google ID
+2023-12-06 20:53:40 DEBUG cache:45 - "index.ftlh"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-12-06 20:54:35 INFO  MainController:58 - Try to load the main page
+2023-12-06 20:54:35 INFO  UserService:61 - User are not finding by google ID
+2023-12-06 20:54:35 DEBUG cache:45 - TemplateLoader.findTemplateSource("index_en.ftlh"): Not found
+2023-12-06 20:54:35 DEBUG cache:45 - TemplateLoader.findTemplateSource("index.ftlh"): Not found
+2023-12-06 20:54:35 DEBUG cache:45 - "index.ftlh"("en", UTF-8, parsed) no source found.
+2023-12-06 20:54:37 INFO  MainController:58 - Try to load the main page
+2023-12-06 20:54:37 INFO  UserService:61 - User are not finding by google ID
+2023-12-06 20:54:37 DEBUG cache:45 - "index.ftlh"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-12-06 20:54:38 INFO  MainController:58 - Try to load the main page
+2023-12-06 20:54:38 INFO  UserService:61 - User are not finding by google ID
+2023-12-06 20:54:38 DEBUG cache:45 - "index.ftlh"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-12-06 20:54:43 INFO  MainController:58 - Try to load the main page
+2023-12-06 20:54:43 ERROR ControllerUtils:45 - User are not find by principal
+2023-12-06 20:54:43 INFO  MainController:92 - User are not authorized
+2023-12-06 20:54:43 DEBUG cache:45 - TemplateLoader.findTemplateSource("index_en.ftlh"): Not found
+2023-12-06 20:54:43 DEBUG cache:45 - TemplateLoader.findTemplateSource("index.ftlh"): Not found
+2023-12-06 20:54:43 DEBUG cache:45 - "index.ftlh"("en", UTF-8, parsed) no source found.
+2023-12-06 20:54:45 DEBUG cache:45 - TemplateLoader.findTemplateSource("login_en.ftlh"): Not found
+2023-12-06 20:54:45 DEBUG cache:45 - TemplateLoader.findTemplateSource("login.ftlh"): Found
+2023-12-06 20:54:45 DEBUG cache:45 - "login.ftlh"("en", UTF-8, parsed): using cached since D:\GIT storage\library\target\classes\templates\login.ftlh hasn't changed.
+2023-12-06 20:54:45 DEBUG cache:45 - "login.ftlh"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-12-06 20:54:45 DEBUG cache:45 - TemplateLoader.findTemplateSource("parts/common_en.ftlh"): Not found
+2023-12-06 20:54:45 DEBUG cache:45 - TemplateLoader.findTemplateSource("parts/common.ftlh"): Found
+2023-12-06 20:54:45 DEBUG cache:45 - "parts/common.ftlh"("en", UTF-8, parsed): using cached since D:\GIT storage\library\target\classes\templates\parts\common.ftlh hasn't changed.
+2023-12-06 20:54:45 DEBUG cache:45 - TemplateLoader.findTemplateSource("parts/login_en.ftlh"): Not found
+2023-12-06 20:54:45 DEBUG cache:45 - TemplateLoader.findTemplateSource("parts/login.ftlh"): Found
+2023-12-06 20:54:45 DEBUG cache:45 - "parts/login.ftlh"("en", UTF-8, parsed): using cached since D:\GIT storage\library\target\classes\templates\parts\login.ftlh hasn't changed.
+2023-12-06 20:54:50 INFO  MainController:58 - Try to load the main page
+2023-12-06 20:54:50 DEBUG cache:45 - TemplateLoader.findTemplateSource("index_en.ftlh"): Not found
+2023-12-06 20:54:50 DEBUG cache:45 - TemplateLoader.findTemplateSource("index.ftlh"): Not found
+2023-12-06 20:54:50 DEBUG cache:45 - "index.ftlh"("en", UTF-8, parsed) no source found.
+2023-12-06 20:54:50 INFO  MainController:58 - Try to load the main page
+2023-12-06 20:54:50 DEBUG cache:45 - "index.ftlh"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-12-06 20:54:56 INFO  MainController:58 - Try to load the main page
+2023-12-06 20:54:56 DEBUG cache:45 - TemplateLoader.findTemplateSource("index_en.ftlh"): Not found
+2023-12-06 20:54:56 DEBUG cache:45 - TemplateLoader.findTemplateSource("index.ftlh"): Not found
+2023-12-06 20:54:56 DEBUG cache:45 - "index.ftlh"("en", UTF-8, parsed) no source found.
+2023-12-06 20:54:57 INFO  MainController:58 - Try to load the main page
+2023-12-06 20:54:57 DEBUG cache:45 - "index.ftlh"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-12-06 20:55:03 INFO  MainController:58 - Try to load the main page
+2023-12-06 20:55:03 DEBUG cache:45 - TemplateLoader.findTemplateSource("index_en.ftlh"): Not found
+2023-12-06 20:55:03 DEBUG cache:45 - TemplateLoader.findTemplateSource("index.ftlh"): Not found
+2023-12-06 20:55:03 DEBUG cache:45 - "index.ftlh"("en", UTF-8, parsed) no source found.
+2023-12-06 20:55:18 ERROR BookController:96 - There are some errors with update file in book: Book(id=3, title=Master and Margaritc, description=fdffddfdf, author=Authpr auth, yearOfPublishing=2001, price=100.0, numberOfCopies=10, numberOfUnoccupied=9)File: org.springframework.web.multipart.support.StandardMultipartHttpServletRequest$StandardMultipartFile@1cd2a29b. Message: java.io.FileNotFoundException: C:\Users\geral\AppData\Local\Temp\tomcat.238071659965309283.8080\work\Tomcat\localhost\ROOT\uploads\b98dc92d-330f-40d7-b18f-a311c18d73c2.1b5ac1e7-9a88-4548-98cb-423ef2c052e3.VidbirStickersByOGAEUkraine61.png (The system cannot find the path specified)
+2023-12-06 20:56:42 INFO  MainController:58 - Try to load the main page
+2023-12-06 20:56:42 DEBUG cache:45 - Couldn't find template in cache for "index.ftlh"("en", UTF-8, parsed); will try to load it.
+2023-12-06 20:56:42 DEBUG cache:45 - TemplateLoader.findTemplateSource("index_en.ftlh"): Not found
+2023-12-06 20:56:42 DEBUG cache:45 - TemplateLoader.findTemplateSource("index.ftlh"): Not found
+2023-12-06 21:00:14 INFO  MainController:58 - Try to load the main page
+2023-12-06 21:00:14 DEBUG cache:45 - Couldn't find template in cache for "index.ftlh"("en", UTF-8, parsed); will try to load it.
+2023-12-06 21:00:14 DEBUG cache:45 - TemplateLoader.findTemplateSource("index_en.ftlh"): Not found
+2023-12-06 21:00:14 DEBUG cache:45 - TemplateLoader.findTemplateSource("index.ftlh"): Not found
+2023-12-06 21:01:46 INFO  MainController:58 - Try to load the main page
+2023-12-06 21:01:47 DEBUG cache:45 - Couldn't find template in cache for "index.ftlh"("en", UTF-8, parsed); will try to load it.
+2023-12-06 21:01:47 DEBUG cache:45 - TemplateLoader.findTemplateSource("index_en.ftlh"): Not found
+2023-12-06 21:01:47 DEBUG cache:45 - TemplateLoader.findTemplateSource("index.ftlh"): Not found
+2023-12-06 21:01:49 INFO  MainController:58 - Try to load the main page
+2023-12-06 21:01:49 DEBUG cache:45 - "index.ftlh"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-12-06 21:01:58 INFO  MainController:58 - Try to load the main page
+2023-12-06 21:01:58 INFO  MainController:58 - Try to load the main page
+2023-12-06 21:01:58 DEBUG cache:45 - TemplateLoader.findTemplateSource("index_en.ftlh"): Not found
+2023-12-06 21:01:58 DEBUG cache:45 - TemplateLoader.findTemplateSource("index.ftlh"): Not found
+2023-12-06 21:01:58 DEBUG cache:45 - "index.ftlh"("en", UTF-8, parsed) no source found.
+2023-12-06 21:01:58 DEBUG cache:45 - "index.ftlh"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-12-06 21:02:06 ERROR BookController:96 - There are some errors with update file in book: Book(id=3, title=Master and Margaritc, description=fdffddfdf, author=Authpr auth, yearOfPublishing=2001, price=100.0, numberOfCopies=10, numberOfUnoccupied=9)File: org.springframework.web.multipart.support.StandardMultipartHttpServletRequest$StandardMultipartFile@19fa921d. Message: java.io.FileNotFoundException: C:\Users\geral\AppData\Local\Temp\tomcat.11555541938648871929.8080\work\Tomcat\localhost\ROOT\file:\D:\GIT storage\library\uploads\fb7447e6-6d22-4b9a-bc16-5fd5009980ce.1bb7fadd-50d0-440d-be97-8218d69a6484.VidbirStickersByOGAEUkraine8.jpeg (The filename, directory name, or volume label syntax is incorrect)
+2023-12-06 21:03:32 INFO  MainController:58 - Try to load the main page
+2023-12-06 21:03:32 DEBUG cache:45 - Couldn't find template in cache for "index.ftlh"("en", UTF-8, parsed); will try to load it.
+2023-12-06 21:03:32 DEBUG cache:45 - TemplateLoader.findTemplateSource("index_en.ftlh"): Not found
+2023-12-06 21:03:32 DEBUG cache:45 - TemplateLoader.findTemplateSource("index.ftlh"): Not found
+2023-12-06 21:03:32 INFO  MainController:58 - Try to load the main page
+2023-12-06 21:03:32 INFO  MainController:58 - Try to load the main page
+2023-12-06 21:03:32 DEBUG cache:45 - "index.ftlh"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-12-06 21:03:32 DEBUG cache:45 - "index.ftlh"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-12-06 21:03:41 ERROR BookController:96 - There are some errors with update file in book: Book(id=3, title=Master and Margaritc, description=fdffddfdf, author=Authpr auth, yearOfPublishing=2001, price=100.0, numberOfCopies=10, numberOfUnoccupied=9)File: org.springframework.web.multipart.support.StandardMultipartHttpServletRequest$StandardMultipartFile@7ced6c52. Message: java.io.FileNotFoundException: C:\Users\geral\AppData\Local\Temp\tomcat.15870286712491248550.8080\work\Tomcat\localhost\ROOT\file:\D:\GIT storage\library\uploads\f84a7870-e124-4dba-acb7-cb75ac241398.1cf60a8a-da06-44f5-8afc-96254ea38346.447a8791-64a4-41d6-be44-2b0881ce38f5.VidbirStickersByOGAEUkraine29.jpeg (The filename, directory name, or volume label syntax is incorrect)
+2023-12-06 21:05:58 INFO  MainController:58 - Try to load the main page
+2023-12-06 21:05:58 DEBUG cache:45 - Couldn't find template in cache for "index.ftlh"("en", UTF-8, parsed); will try to load it.
+2023-12-06 21:05:58 DEBUG cache:45 - TemplateLoader.findTemplateSource("index_en.ftlh"): Not found
+2023-12-06 21:05:58 DEBUG cache:45 - TemplateLoader.findTemplateSource("index.ftlh"): Not found
+2023-12-06 21:09:12 INFO  MainController:58 - Try to load the main page
+2023-12-06 21:09:12 INFO  MainController:58 - Try to load the main page
+2023-12-06 21:09:12 INFO  MainController:58 - Try to load the main page
+2023-12-06 21:09:12 DEBUG cache:45 - Couldn't find template in cache for "index.ftlh"("en", UTF-8, parsed); will try to load it.
+2023-12-06 21:09:12 DEBUG cache:45 - Couldn't find template in cache for "index.ftlh"("en", UTF-8, parsed); will try to load it.
+2023-12-06 21:09:12 DEBUG cache:45 - Couldn't find template in cache for "index.ftlh"("en", UTF-8, parsed); will try to load it.
+2023-12-06 21:09:12 DEBUG cache:45 - TemplateLoader.findTemplateSource("index_en.ftlh"): Not found
+2023-12-06 21:09:12 DEBUG cache:45 - TemplateLoader.findTemplateSource("index_en.ftlh"): Not found
+2023-12-06 21:09:12 DEBUG cache:45 - TemplateLoader.findTemplateSource("index_en.ftlh"): Not found
+2023-12-06 21:09:12 DEBUG cache:45 - TemplateLoader.findTemplateSource("index.ftlh"): Not found
+2023-12-06 21:09:12 DEBUG cache:45 - TemplateLoader.findTemplateSource("index.ftlh"): Not found
+2023-12-06 21:09:12 DEBUG cache:45 - TemplateLoader.findTemplateSource("index.ftlh"): Not found
+2023-12-06 21:09:19 ERROR BookController:96 - There are some errors with update file in book: Book(id=3, title=Master and Margaritc, description=fdffddfdf, author=Authpr auth, yearOfPublishing=2001, price=100.0, numberOfCopies=10, numberOfUnoccupied=9)File: org.springframework.web.multipart.support.StandardMultipartHttpServletRequest$StandardMultipartFile@15161c95. Message: java.io.FileNotFoundException: C:\Users\geral\AppData\Local\Temp\tomcat.6495716619750058098.8080\work\Tomcat\localhost\ROOT\file:\D:\GIT storage\library\uploads\3a1b58ca-0da7-43e7-9813-321c6ad0c29f.1bb7fadd-50d0-440d-be97-8218d69a6484.VidbirStickersByOGAEUkraine8.jpeg (The filename, directory name, or volume label syntax is incorrect)
+2023-12-06 21:13:13 INFO  MainController:58 - Try to load the main page
+2023-12-06 21:13:13 DEBUG cache:45 - Couldn't find template in cache for "index.ftlh"("en", UTF-8, parsed); will try to load it.
+2023-12-06 21:13:13 DEBUG cache:45 - TemplateLoader.findTemplateSource("index_en.ftlh"): Not found
+2023-12-06 21:13:13 DEBUG cache:45 - TemplateLoader.findTemplateSource("index.ftlh"): Not found
+2023-12-06 21:13:16 INFO  MainController:58 - Try to load the main page
+2023-12-06 21:13:16 INFO  MainController:58 - Try to load the main page
+2023-12-06 21:13:16 INFO  MainController:58 - Try to load the main page
+2023-12-06 21:13:16 DEBUG cache:45 - "index.ftlh"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-12-06 21:13:16 DEBUG cache:45 - "index.ftlh"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-12-06 21:13:16 DEBUG cache:45 - "index.ftlh"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-12-06 21:13:31 ERROR BookController:96 - There are some errors with update file in book: Book(id=3, title=Master and Margaritc, description=fdffddfdf, author=Authpr auth, yearOfPublishing=2001, price=100.0, numberOfCopies=10, numberOfUnoccupied=9)File: org.springframework.web.multipart.support.StandardMultipartHttpServletRequest$StandardMultipartFile@2215775f. Message: java.io.FileNotFoundException: C:\Users\geral\AppData\Local\Temp\tomcat.17606465059549979557.8080\work\Tomcat\localhost\ROOT\file:\D:\GIT storage\library\uploads\2f5fcf66-76a0-49eb-b370-d0ff79201e1b.1bb7fadd-50d0-440d-be97-8218d69a6484.VidbirStickersByOGAEUkraine8.jpeg (The filename, directory name, or volume label syntax is incorrect)
+2023-12-06 21:19:12 INFO  MainController:58 - Try to load the main page
+2023-12-06 21:19:12 DEBUG cache:45 - Couldn't find template in cache for "index.ftlh"("en", UTF-8, parsed); will try to load it.
+2023-12-06 21:19:12 DEBUG cache:45 - TemplateLoader.findTemplateSource("index_en.ftlh"): Not found
+2023-12-06 21:19:12 DEBUG cache:45 - TemplateLoader.findTemplateSource("index.ftlh"): Not found
+2023-12-06 21:19:13 INFO  MainController:58 - Try to load the main page
+2023-12-06 21:19:13 INFO  MainController:58 - Try to load the main page
+2023-12-06 21:19:13 DEBUG cache:45 - "index.ftlh"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-12-06 21:19:13 DEBUG cache:45 - "index.ftlh"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-12-06 21:19:24 ERROR BookController:96 - There are some errors with update file in book: Book(id=3, title=Master and Margaritc, description=fdffddfdf, author=Authpr auth, yearOfPublishing=2001, price=100.0, numberOfCopies=10, numberOfUnoccupied=9)File: org.springframework.web.multipart.support.StandardMultipartHttpServletRequest$StandardMultipartFile@2a670eff. Message: java.io.FileNotFoundException: C:\Users\geral\AppData\Local\Temp\tomcat.2635739409613032660.8080\work\Tomcat\localhost\ROOT\classpath:..\..\..\uploads\a48b48da-a338-40a4-aa5f-b7c22e30ed88.1a811f43-2529-4199-963d-1498ce7eb83b.VidbirStickersByOGAEUkraine4.png (The system cannot find the path specified)
+2023-12-06 21:22:35 ERROR BookController:96 - There are some errors with update file in book: Book(id=3, title=Master and Margaritc, description=fdffddfdf, author=Authpr auth, yearOfPublishing=2001, price=100.0, numberOfCopies=10, numberOfUnoccupied=9)File: org.springframework.web.multipart.support.StandardMultipartHttpServletRequest$StandardMultipartFile@4a7adc40. Message: java.io.FileNotFoundException: C:\Users\geral\AppData\Local\Temp\tomcat.2497046843922849047.8080\work\Tomcat\localhost\ROOT\file:\D:\GIT storage\library\uploads\c0011bda-7e30-4e29-b6d0-700f27d82a4e.1bb7fadd-50d0-440d-be97-8218d69a6484.VidbirStickersByOGAEUkraine8.jpeg (The filename, directory name, or volume label syntax is incorrect)
+2023-12-06 21:25:01 INFO  MainController:58 - Try to load the main page
+2023-12-06 21:25:01 DEBUG cache:45 - Couldn't find template in cache for "index.ftlh"("en", UTF-8, parsed); will try to load it.
+2023-12-06 21:25:01 DEBUG cache:45 - TemplateLoader.findTemplateSource("index_en.ftlh"): Not found
+2023-12-06 21:25:01 DEBUG cache:45 - TemplateLoader.findTemplateSource("index.ftlh"): Not found
+2023-12-06 21:26:06 INFO  MainController:58 - Try to load the main page
+2023-12-06 21:26:06 DEBUG cache:45 - TemplateLoader.findTemplateSource("index_en.ftlh"): Not found
+2023-12-06 21:26:06 DEBUG cache:45 - TemplateLoader.findTemplateSource("index.ftlh"): Not found
+2023-12-06 21:26:06 DEBUG cache:45 - "index.ftlh"("en", UTF-8, parsed) no source found.
+2023-12-06 21:35:56 INFO  MainController:58 - Try to load the main page
+2023-12-06 21:35:56 DEBUG cache:45 - Couldn't find template in cache for "index.ftlh"("en", UTF-8, parsed); will try to load it.
+2023-12-06 21:35:56 DEBUG cache:45 - TemplateLoader.findTemplateSource("index_en.ftlh"): Not found
+2023-12-06 21:35:56 DEBUG cache:45 - TemplateLoader.findTemplateSource("index.ftlh"): Not found
+2023-12-06 21:40:52 INFO  MainController:58 - Try to load the main page
+2023-12-06 21:40:52 DEBUG cache:45 - TemplateLoader.findTemplateSource("index_en.ftlh"): Not found
+2023-12-06 21:40:52 DEBUG cache:45 - TemplateLoader.findTemplateSource("index.ftlh"): Not found
+2023-12-06 21:40:52 DEBUG cache:45 - "index.ftlh"("en", UTF-8, parsed) no source found.
+2023-12-06 21:40:56 INFO  MainController:58 - Try to load the main page
+2023-12-06 21:40:56 DEBUG cache:45 - "index.ftlh"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-12-06 21:40:58 INFO  MainController:58 - Try to load the main page
+2023-12-06 21:40:58 DEBUG cache:45 - TemplateLoader.findTemplateSource("index_en.ftlh"): Not found
+2023-12-06 21:40:58 DEBUG cache:45 - TemplateLoader.findTemplateSource("index.ftlh"): Not found
+2023-12-06 21:40:58 DEBUG cache:45 - "index.ftlh"("en", UTF-8, parsed) no source found.
+2023-12-06 21:40:58 INFO  MainController:58 - Try to load the main page
+2023-12-06 21:40:58 DEBUG cache:45 - "index.ftlh"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-12-06 21:41:24 INFO  MainController:58 - Try to load the main page
+2023-12-06 21:41:24 DEBUG cache:45 - TemplateLoader.findTemplateSource("index_en.ftlh"): Not found
+2023-12-06 21:41:24 DEBUG cache:45 - TemplateLoader.findTemplateSource("index.ftlh"): Not found
+2023-12-06 21:41:24 DEBUG cache:45 - "index.ftlh"("en", UTF-8, parsed) no source found.
+2023-12-06 21:41:26 INFO  MainController:58 - Try to load the main page
+2023-12-06 21:41:26 DEBUG cache:45 - "index.ftlh"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-12-06 21:41:29 INFO  MainController:58 - Try to load the main page
+2023-12-06 21:41:29 DEBUG cache:45 - TemplateLoader.findTemplateSource("index_en.ftlh"): Not found
+2023-12-06 21:41:29 DEBUG cache:45 - TemplateLoader.findTemplateSource("index.ftlh"): Not found
+2023-12-06 21:41:29 DEBUG cache:45 - "index.ftlh"("en", UTF-8, parsed) no source found.
+2023-12-06 21:41:29 INFO  MainController:58 - Try to load the main page
+2023-12-06 21:41:29 DEBUG cache:45 - "index.ftlh"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-12-06 21:41:51 INFO  MainController:58 - Try to load the main page
+2023-12-06 21:41:51 DEBUG cache:45 - Couldn't find template in cache for "index.ftlh"("en", UTF-8, parsed); will try to load it.
+2023-12-06 21:41:51 DEBUG cache:45 - TemplateLoader.findTemplateSource("index_en.ftlh"): Not found
+2023-12-06 21:41:51 DEBUG cache:45 - TemplateLoader.findTemplateSource("index.ftlh"): Not found
+2023-12-06 21:41:54 INFO  MainController:58 - Try to load the main page
+2023-12-06 21:41:54 DEBUG cache:45 - "index.ftlh"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-12-06 21:41:56 INFO  MainController:58 - Try to load the main page
+2023-12-06 21:41:56 DEBUG cache:45 - "index.ftlh"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-12-06 21:41:56 INFO  MainController:58 - Try to load the main page
+2023-12-06 21:41:56 DEBUG cache:45 - "index.ftlh"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-12-06 21:43:32 INFO  MainController:58 - Try to load the main page
+2023-12-06 21:43:32 DEBUG cache:45 - TemplateLoader.findTemplateSource("index_en.ftlh"): Not found
+2023-12-06 21:43:32 DEBUG cache:45 - TemplateLoader.findTemplateSource("index.ftlh"): Not found
+2023-12-06 21:43:32 DEBUG cache:45 - "index.ftlh"("en", UTF-8, parsed) no source found.
+2023-12-06 21:43:52 INFO  MainController:58 - Try to load the main page
+2023-12-06 21:43:52 DEBUG cache:45 - TemplateLoader.findTemplateSource("index_en.ftlh"): Not found
+2023-12-06 21:43:52 DEBUG cache:45 - TemplateLoader.findTemplateSource("index.ftlh"): Not found
+2023-12-06 21:43:52 DEBUG cache:45 - "index.ftlh"("en", UTF-8, parsed) no source found.
+2023-12-06 21:43:53 INFO  MainController:58 - Try to load the main page
+2023-12-06 21:43:53 DEBUG cache:45 - "index.ftlh"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-12-06 21:43:56 INFO  MainController:58 - Try to load the main page
+2023-12-06 21:43:56 ERROR ControllerUtils:45 - User are not find by principal
+2023-12-06 21:43:56 INFO  MainController:92 - User are not authorized
+2023-12-06 21:43:56 DEBUG cache:45 - "index.ftlh"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-12-06 21:43:58 DEBUG cache:45 - Couldn't find template in cache for "login.ftlh"("en", UTF-8, parsed); will try to load it.
+2023-12-06 21:43:58 DEBUG cache:45 - TemplateLoader.findTemplateSource("login_en.ftlh"): Not found
+2023-12-06 21:43:58 DEBUG cache:45 - TemplateLoader.findTemplateSource("login.ftlh"): Found
+2023-12-06 21:43:58 DEBUG cache:45 - Loading template for "login.ftlh"("en", UTF-8, parsed) from "D:\\GIT storage\\library\\target\\classes\\templates\\login.ftlh"
+2023-12-06 21:43:58 DEBUG cache:45 - "login.ftlh"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-12-06 21:43:58 DEBUG cache:45 - Couldn't find template in cache for "parts/common.ftlh"("en", UTF-8, parsed); will try to load it.
+2023-12-06 21:43:58 DEBUG cache:45 - TemplateLoader.findTemplateSource("parts/common_en.ftlh"): Not found
+2023-12-06 21:43:58 DEBUG cache:45 - TemplateLoader.findTemplateSource("parts/common.ftlh"): Found
+2023-12-06 21:43:58 DEBUG cache:45 - Loading template for "parts/common.ftlh"("en", UTF-8, parsed) from "D:\\GIT storage\\library\\target\\classes\\templates\\parts\\common.ftlh"
+2023-12-06 21:43:58 DEBUG cache:45 - Couldn't find template in cache for "parts/login.ftlh"("en", UTF-8, parsed); will try to load it.
+2023-12-06 21:43:58 DEBUG cache:45 - TemplateLoader.findTemplateSource("parts/login_en.ftlh"): Not found
+2023-12-06 21:43:58 DEBUG cache:45 - TemplateLoader.findTemplateSource("parts/login.ftlh"): Found
+2023-12-06 21:43:58 DEBUG cache:45 - Loading template for "parts/login.ftlh"("en", UTF-8, parsed) from "D:\\GIT storage\\library\\target\\classes\\templates\\parts\\login.ftlh"
+2023-12-06 21:44:01 DEBUG cache:45 - "login.ftlh"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-12-06 21:44:01 DEBUG cache:45 - "login.ftlh"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-12-06 21:44:01 DEBUG cache:45 - "parts/common.ftlh"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-12-06 21:44:01 DEBUG cache:45 - "parts/login.ftlh"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-12-06 21:44:03 INFO  MainController:58 - Try to load the main page
+2023-12-06 21:44:03 ERROR ControllerUtils:45 - User are not find by principal
+2023-12-06 21:44:03 INFO  MainController:92 - User are not authorized
+2023-12-06 21:44:03 DEBUG cache:45 - TemplateLoader.findTemplateSource("index_en.ftlh"): Not found
+2023-12-06 21:44:03 DEBUG cache:45 - TemplateLoader.findTemplateSource("index.ftlh"): Not found
+2023-12-06 21:44:03 DEBUG cache:45 - "index.ftlh"("en", UTF-8, parsed) no source found.
+2023-12-06 21:44:08 INFO  MainController:58 - Try to load the main page
+2023-12-06 21:44:08 INFO  UserService:61 - User are not finding by google ID
+2023-12-06 21:44:08 DEBUG cache:45 - TemplateLoader.findTemplateSource("index_en.ftlh"): Not found
+2023-12-06 21:44:08 DEBUG cache:45 - TemplateLoader.findTemplateSource("index.ftlh"): Not found
+2023-12-06 21:44:08 DEBUG cache:45 - "index.ftlh"("en", UTF-8, parsed) no source found.
+2023-12-06 21:44:09 INFO  MainController:58 - Try to load the main page
+2023-12-06 21:44:09 INFO  UserService:61 - User are not finding by google ID
+2023-12-06 21:44:09 DEBUG cache:45 - "index.ftlh"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-12-06 21:44:10 INFO  UserService:61 - User are not finding by google ID
+2023-12-06 21:44:22 INFO  MainController:58 - Try to load the main page
+2023-12-06 21:44:22 INFO  UserService:61 - User are not finding by google ID
+2023-12-06 21:44:22 DEBUG cache:45 - TemplateLoader.findTemplateSource("index_en.ftlh"): Not found
+2023-12-06 21:44:22 DEBUG cache:45 - TemplateLoader.findTemplateSource("index.ftlh"): Not found
+2023-12-06 21:44:22 DEBUG cache:45 - "index.ftlh"("en", UTF-8, parsed) no source found.
+2023-12-06 21:44:22 INFO  UserService:61 - User are not finding by google ID
+2023-12-06 21:45:07 INFO  MainController:58 - Try to load the main page
+2023-12-06 21:45:07 INFO  UserService:61 - User are not finding by google ID
+2023-12-06 21:45:07 DEBUG cache:45 - TemplateLoader.findTemplateSource("index_en.ftlh"): Not found
+2023-12-06 21:45:07 DEBUG cache:45 - TemplateLoader.findTemplateSource("index.ftlh"): Not found
+2023-12-06 21:45:07 DEBUG cache:45 - "index.ftlh"("en", UTF-8, parsed) no source found.
+2023-12-06 21:45:07 INFO  MainController:58 - Try to load the main page
+2023-12-06 21:45:07 INFO  UserService:61 - User are not finding by google ID
+2023-12-06 21:45:07 DEBUG cache:45 - "index.ftlh"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-12-06 21:45:08 INFO  UserService:61 - User are not finding by google ID
+2023-12-06 21:45:08 INFO  MainController:58 - Try to load the main page
+2023-12-06 21:45:08 INFO  UserService:61 - User are not finding by google ID
+2023-12-06 21:45:08 DEBUG cache:45 - "index.ftlh"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-12-06 21:45:13 INFO  UserService:61 - User are not finding by google ID
+2023-12-06 21:47:00 INFO  MainController:58 - Try to load the main page
+2023-12-06 21:47:00 INFO  UserService:61 - User are not finding by google ID
+2023-12-06 21:47:00 DEBUG cache:45 - TemplateLoader.findTemplateSource("index_en.ftlh"): Not found
+2023-12-06 21:47:00 DEBUG cache:45 - TemplateLoader.findTemplateSource("index.ftlh"): Not found
+2023-12-06 21:47:00 DEBUG cache:45 - "index.ftlh"("en", UTF-8, parsed) no source found.
+2023-12-06 21:47:01 INFO  UserService:61 - User are not finding by google ID
+2023-12-06 21:47:01 INFO  MainController:58 - Try to load the main page
+2023-12-06 21:47:01 INFO  UserService:61 - User are not finding by google ID
+2023-12-06 21:47:01 DEBUG cache:45 - "index.ftlh"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-12-06 21:47:29 INFO  MainController:58 - Try to load the main page
+2023-12-06 21:47:29 INFO  UserService:61 - User are not finding by google ID
+2023-12-06 21:47:29 DEBUG cache:45 - TemplateLoader.findTemplateSource("index_en.ftlh"): Not found
+2023-12-06 21:47:29 DEBUG cache:45 - TemplateLoader.findTemplateSource("index.ftlh"): Not found
+2023-12-06 21:47:29 DEBUG cache:45 - "index.ftlh"("en", UTF-8, parsed) no source found.
+2023-12-06 21:47:29 INFO  MainController:58 - Try to load the main page
+2023-12-06 21:47:29 INFO  UserService:61 - User are not finding by google ID
+2023-12-06 21:47:29 DEBUG cache:45 - "index.ftlh"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-12-06 21:47:31 INFO  UserService:61 - User are not finding by google ID
+2023-12-06 21:47:40 INFO  MainController:58 - Try to load the main page
+2023-12-06 21:47:40 INFO  UserService:61 - User are not finding by google ID
+2023-12-06 21:47:40 DEBUG cache:45 - TemplateLoader.findTemplateSource("index_en.ftlh"): Not found
+2023-12-06 21:47:40 DEBUG cache:45 - TemplateLoader.findTemplateSource("index.ftlh"): Not found
+2023-12-06 21:47:40 DEBUG cache:45 - "index.ftlh"("en", UTF-8, parsed) no source found.
+2023-12-06 21:47:41 INFO  UserService:61 - User are not finding by google ID
+2023-12-06 21:47:41 INFO  MainController:58 - Try to load the main page
+2023-12-06 21:47:41 INFO  UserService:61 - User are not finding by google ID
+2023-12-06 21:47:41 DEBUG cache:45 - "index.ftlh"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-12-06 21:48:40 INFO  MainController:58 - Try to load the main page
+2023-12-06 21:48:40 INFO  UserService:61 - User are not finding by google ID
+2023-12-06 21:48:40 DEBUG cache:45 - TemplateLoader.findTemplateSource("index_en.ftlh"): Not found
+2023-12-06 21:48:40 DEBUG cache:45 - TemplateLoader.findTemplateSource("index.ftlh"): Not found
+2023-12-06 21:48:40 DEBUG cache:45 - "index.ftlh"("en", UTF-8, parsed) no source found.
+2023-12-06 21:48:41 INFO  UserService:61 - User are not finding by google ID
+2023-12-06 21:48:47 INFO  MainController:58 - Try to load the main page
+2023-12-06 21:48:47 INFO  UserService:61 - User are not finding by google ID
+2023-12-06 21:48:47 DEBUG cache:45 - TemplateLoader.findTemplateSource("index_en.ftlh"): Not found
+2023-12-06 21:48:47 DEBUG cache:45 - TemplateLoader.findTemplateSource("index.ftlh"): Not found
+2023-12-06 21:48:47 DEBUG cache:45 - "index.ftlh"("en", UTF-8, parsed) no source found.
+2023-12-06 21:48:48 INFO  UserService:61 - User are not finding by google ID
+2023-12-06 21:49:04 INFO  MainController:58 - Try to load the main page
+2023-12-06 21:49:04 INFO  UserService:61 - User are not finding by google ID
+2023-12-06 21:49:04 DEBUG cache:45 - TemplateLoader.findTemplateSource("index_en.ftlh"): Not found
+2023-12-06 21:49:04 DEBUG cache:45 - TemplateLoader.findTemplateSource("index.ftlh"): Not found
+2023-12-06 21:49:04 DEBUG cache:45 - "index.ftlh"("en", UTF-8, parsed) no source found.
+2023-12-06 21:49:04 INFO  UserService:61 - User are not finding by google ID
+2023-12-06 21:49:09 INFO  UserService:61 - User are not finding by google ID
+2023-12-06 21:49:18 INFO  MainController:58 - Try to load the main page
+2023-12-06 21:49:18 INFO  UserService:61 - User are not finding by google ID
+2023-12-06 21:49:18 DEBUG cache:45 - TemplateLoader.findTemplateSource("index_en.ftlh"): Not found
+2023-12-06 21:49:18 DEBUG cache:45 - TemplateLoader.findTemplateSource("index.ftlh"): Not found
+2023-12-06 21:49:18 DEBUG cache:45 - "index.ftlh"("en", UTF-8, parsed) no source found.
+2023-12-06 21:49:19 INFO  UserService:61 - User are not finding by google ID
+2023-12-06 21:49:42 INFO  MainController:58 - Try to load the main page
+2023-12-06 21:49:42 INFO  UserService:61 - User are not finding by google ID
+2023-12-06 21:49:42 DEBUG cache:45 - TemplateLoader.findTemplateSource("index_en.ftlh"): Not found
+2023-12-06 21:49:42 DEBUG cache:45 - TemplateLoader.findTemplateSource("index.ftlh"): Not found
+2023-12-06 21:49:42 DEBUG cache:45 - "index.ftlh"("en", UTF-8, parsed) no source found.
+2023-12-06 21:49:45 INFO  UserService:61 - User are not finding by google ID
+2023-12-06 21:50:42 INFO  MainController:58 - Try to load the main page
+2023-12-06 21:50:42 INFO  UserService:61 - User are not finding by google ID
+2023-12-06 21:50:42 DEBUG cache:45 - TemplateLoader.findTemplateSource("index_en.ftlh"): Not found
+2023-12-06 21:50:42 DEBUG cache:45 - TemplateLoader.findTemplateSource("index.ftlh"): Not found
+2023-12-06 21:50:42 DEBUG cache:45 - "index.ftlh"("en", UTF-8, parsed) no source found.
+2023-12-06 21:50:43 INFO  UserService:61 - User are not finding by google ID
+2023-12-06 21:51:19 INFO  MainController:58 - Try to load the main page
+2023-12-06 21:51:19 INFO  UserService:61 - User are not finding by google ID
+2023-12-06 21:51:19 DEBUG cache:45 - TemplateLoader.findTemplateSource("index_en.ftlh"): Not found
+2023-12-06 21:51:19 DEBUG cache:45 - TemplateLoader.findTemplateSource("index.ftlh"): Not found
+2023-12-06 21:51:19 DEBUG cache:45 - "index.ftlh"("en", UTF-8, parsed) no source found.
+2023-12-06 21:51:19 INFO  UserService:61 - User are not finding by google ID
+2023-12-06 21:51:53 INFO  MainController:58 - Try to load the main page
+2023-12-06 21:51:53 INFO  UserService:61 - User are not finding by google ID
+2023-12-06 21:51:53 DEBUG cache:45 - TemplateLoader.findTemplateSource("index_en.ftlh"): Not found
+2023-12-06 21:51:53 DEBUG cache:45 - TemplateLoader.findTemplateSource("index.ftlh"): Not found
+2023-12-06 21:51:53 DEBUG cache:45 - "index.ftlh"("en", UTF-8, parsed) no source found.
+2023-12-06 21:51:54 INFO  UserService:61 - User are not finding by google ID
+2023-12-06 21:51:59 INFO  MainController:58 - Try to load the main page
+2023-12-06 21:51:59 INFO  MainController:58 - Try to load the main page
+2023-12-06 21:51:59 INFO  UserService:61 - User are not finding by google ID
+2023-12-06 21:51:59 INFO  UserService:61 - User are not finding by google ID
+2023-12-06 21:51:59 DEBUG cache:45 - TemplateLoader.findTemplateSource("index_en.ftlh"): Not found
+2023-12-06 21:51:59 DEBUG cache:45 - TemplateLoader.findTemplateSource("index_en.ftlh"): Not found
+2023-12-06 21:51:59 DEBUG cache:45 - TemplateLoader.findTemplateSource("index.ftlh"): Not found
+2023-12-06 21:51:59 DEBUG cache:45 - "index.ftlh"("en", UTF-8, parsed) no source found.
+2023-12-06 21:51:59 DEBUG cache:45 - TemplateLoader.findTemplateSource("index.ftlh"): Not found
+2023-12-06 21:51:59 DEBUG cache:45 - "index.ftlh"("en", UTF-8, parsed) no source found.
+2023-12-06 21:52:00 INFO  MainController:58 - Try to load the main page
+2023-12-06 21:52:00 INFO  UserService:61 - User are not finding by google ID
+2023-12-06 21:52:00 DEBUG cache:45 - "index.ftlh"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-12-06 21:52:33 INFO  MainController:58 - Try to load the main page
+2023-12-06 21:52:33 INFO  UserService:61 - User are not finding by google ID
+2023-12-06 21:52:33 DEBUG cache:45 - Couldn't find template in cache for "index.ftlh"("en", UTF-8, parsed); will try to load it.
+2023-12-06 21:52:33 DEBUG cache:45 - TemplateLoader.findTemplateSource("index_en.ftlh"): Not found
+2023-12-06 21:52:33 DEBUG cache:45 - TemplateLoader.findTemplateSource("index.ftlh"): Not found
+2023-12-06 21:52:38 INFO  MainController:58 - Try to load the main page
+2023-12-06 21:52:38 INFO  UserService:61 - User are not finding by google ID
+2023-12-06 21:52:38 DEBUG cache:45 - "index.ftlh"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-12-06 21:52:50 INFO  UserService:61 - User are not finding by google ID
+2023-12-06 21:52:57 INFO  UserService:61 - User are not finding by google ID
+2023-12-06 21:53:25 INFO  UserService:61 - User are not finding by google ID
+2023-12-06 21:53:27 INFO  UserService:61 - User are not finding by google ID
+2023-12-06 21:53:31 INFO  MainController:58 - Try to load the main page
+2023-12-06 21:53:31 ERROR ControllerUtils:45 - User are not find by principal
+2023-12-06 21:53:31 INFO  MainController:92 - User are not authorized
+2023-12-06 21:53:31 DEBUG cache:45 - TemplateLoader.findTemplateSource("index_en.ftlh"): Not found
+2023-12-06 21:53:31 DEBUG cache:45 - TemplateLoader.findTemplateSource("index.ftlh"): Not found
+2023-12-06 21:53:31 DEBUG cache:45 - "index.ftlh"("en", UTF-8, parsed) no source found.
+2023-12-06 21:53:38 INFO  MainController:58 - Try to load the main page
+2023-12-06 21:53:38 INFO  UserService:61 - User are not finding by google ID
+2023-12-06 21:53:38 DEBUG cache:45 - TemplateLoader.findTemplateSource("index_en.ftlh"): Not found
+2023-12-06 21:53:38 DEBUG cache:45 - TemplateLoader.findTemplateSource("index.ftlh"): Not found
+2023-12-06 21:53:38 DEBUG cache:45 - "index.ftlh"("en", UTF-8, parsed) no source found.
+2023-12-06 21:53:42 INFO  UserService:61 - User are not finding by google ID
+2023-12-06 21:53:49 INFO  UserService:61 - User are not finding by google ID
+2023-12-06 21:53:50 INFO  UserService:61 - User are not finding by google ID
+2023-12-06 21:53:51 INFO  UserService:61 - User are not finding by google ID
+2023-12-06 21:53:56 INFO  UserService:61 - User are not finding by google ID
+2023-12-06 21:53:59 INFO  UserService:61 - User are not finding by google ID
+2023-12-06 21:53:59 INFO  UserService:61 - User are not finding by google ID
+2023-12-06 21:54:39 INFO  MainController:58 - Try to load the main page
+2023-12-06 21:54:39 INFO  UserService:61 - User are not finding by google ID
+2023-12-06 21:54:39 DEBUG cache:45 - TemplateLoader.findTemplateSource("index_en.ftlh"): Not found
+2023-12-06 21:54:39 DEBUG cache:45 - TemplateLoader.findTemplateSource("index.ftlh"): Not found
+2023-12-06 21:54:39 DEBUG cache:45 - "index.ftlh"("en", UTF-8, parsed) no source found.
+2023-12-06 21:54:40 INFO  UserService:61 - User are not finding by google ID
+2023-12-06 21:55:05 INFO  MainController:58 - Try to load the main page
+2023-12-06 21:55:05 INFO  UserService:61 - User are not finding by google ID
+2023-12-06 21:55:05 DEBUG cache:45 - TemplateLoader.findTemplateSource("index_en.ftlh"): Not found
+2023-12-06 21:55:05 DEBUG cache:45 - TemplateLoader.findTemplateSource("index.ftlh"): Not found
+2023-12-06 21:55:05 DEBUG cache:45 - "index.ftlh"("en", UTF-8, parsed) no source found.
+2023-12-06 21:55:05 INFO  UserService:61 - User are not finding by google ID
+2023-12-06 21:55:10 INFO  UserService:61 - User are not finding by google ID
+2023-12-06 21:55:11 INFO  UserService:61 - User are not finding by google ID
+2023-12-06 21:55:11 INFO  UserService:61 - User are not finding by google ID
+2023-12-06 21:55:13 INFO  UserService:61 - User are not finding by google ID
+2023-12-06 21:55:15 INFO  UserService:61 - User are not finding by google ID
+2023-12-06 21:55:15 INFO  UserService:61 - User are not finding by google ID
+2023-12-06 21:55:51 INFO  UserService:61 - User are not finding by google ID
+2023-12-06 21:56:06 INFO  UserService:61 - User are not finding by google ID
+2023-12-06 21:56:06 INFO  UserService:61 - User are not finding by google ID
+2023-12-06 21:56:09 INFO  UserService:61 - User are not finding by google ID
+2023-12-06 21:56:14 INFO  UserService:61 - User are not finding by google ID
+2023-12-06 21:56:16 INFO  UserService:61 - User are not finding by google ID
+2023-12-06 21:56:16 INFO  UserService:61 - User are not finding by google ID
+2023-12-06 21:57:29 INFO  MainController:58 - Try to load the main page
+2023-12-06 21:57:29 INFO  UserService:61 - User are not finding by google ID
+2023-12-06 21:57:29 DEBUG cache:45 - TemplateLoader.findTemplateSource("index_en.ftlh"): Not found
+2023-12-06 21:57:29 DEBUG cache:45 - TemplateLoader.findTemplateSource("index.ftlh"): Not found
+2023-12-06 21:57:29 DEBUG cache:45 - "index.ftlh"("en", UTF-8, parsed) no source found.
+2023-12-06 21:57:50 INFO  MainController:58 - Try to load the main page
+2023-12-06 21:57:50 INFO  UserService:61 - User are not finding by google ID
+2023-12-06 21:57:50 DEBUG cache:45 - TemplateLoader.findTemplateSource("index_en.ftlh"): Not found
+2023-12-06 21:57:50 DEBUG cache:45 - TemplateLoader.findTemplateSource("index.ftlh"): Not found
+2023-12-06 21:57:50 DEBUG cache:45 - "index.ftlh"("en", UTF-8, parsed) no source found.
+2023-12-06 21:59:04 INFO  MainController:58 - Try to load the main page
+2023-12-06 21:59:04 INFO  UserService:61 - User are not finding by google ID
+2023-12-06 21:59:04 DEBUG cache:45 - TemplateLoader.findTemplateSource("index_en.ftlh"): Not found
+2023-12-06 21:59:04 DEBUG cache:45 - TemplateLoader.findTemplateSource("index.ftlh"): Not found
+2023-12-06 21:59:04 DEBUG cache:45 - "index.ftlh"("en", UTF-8, parsed) no source found.
+2023-12-06 21:59:37 INFO  MainController:58 - Try to load the main page
+2023-12-06 21:59:37 INFO  UserService:61 - User are not finding by google ID
+2023-12-06 21:59:37 DEBUG cache:45 - TemplateLoader.findTemplateSource("index_en.ftlh"): Not found
+2023-12-06 21:59:37 DEBUG cache:45 - TemplateLoader.findTemplateSource("index.ftlh"): Not found
+2023-12-06 21:59:37 DEBUG cache:45 - "index.ftlh"("en", UTF-8, parsed) no source found.
+2023-12-06 22:00:00 INFO  MainController:58 - Try to load the main page
+2023-12-06 22:00:00 INFO  UserService:61 - User are not finding by google ID
+2023-12-06 22:00:00 DEBUG cache:45 - TemplateLoader.findTemplateSource("index_en.ftlh"): Not found
+2023-12-06 22:00:00 DEBUG cache:45 - TemplateLoader.findTemplateSource("index.ftlh"): Not found
+2023-12-06 22:00:00 DEBUG cache:45 - "index.ftlh"("en", UTF-8, parsed) no source found.
+2023-12-06 22:00:10 INFO  MainController:58 - Try to load the main page
+2023-12-06 22:00:10 INFO  UserService:61 - User are not finding by google ID
+2023-12-06 22:00:10 DEBUG cache:45 - TemplateLoader.findTemplateSource("index_en.ftlh"): Not found
+2023-12-06 22:00:10 DEBUG cache:45 - TemplateLoader.findTemplateSource("index.ftlh"): Not found
+2023-12-06 22:00:10 DEBUG cache:45 - "index.ftlh"("en", UTF-8, parsed) no source found.
+2023-12-06 22:00:36 INFO  MainController:58 - Try to load the main page
+2023-12-06 22:00:36 INFO  UserService:61 - User are not finding by google ID
+2023-12-06 22:00:36 DEBUG cache:45 - TemplateLoader.findTemplateSource("index_en.ftlh"): Not found
+2023-12-06 22:00:36 DEBUG cache:45 - TemplateLoader.findTemplateSource("index.ftlh"): Not found
+2023-12-06 22:00:36 DEBUG cache:45 - "index.ftlh"("en", UTF-8, parsed) no source found.
+2023-12-06 22:00:57 INFO  MainController:58 - Try to load the main page
+2023-12-06 22:00:57 INFO  UserService:61 - User are not finding by google ID
+2023-12-06 22:00:57 DEBUG cache:45 - TemplateLoader.findTemplateSource("index_en.ftlh"): Not found
+2023-12-06 22:00:57 DEBUG cache:45 - TemplateLoader.findTemplateSource("index.ftlh"): Not found
+2023-12-06 22:00:57 DEBUG cache:45 - "index.ftlh"("en", UTF-8, parsed) no source found.
+2023-12-06 22:01:45 INFO  MainController:58 - Try to load the main page
+2023-12-06 22:01:45 INFO  UserService:61 - User are not finding by google ID
+2023-12-06 22:01:45 DEBUG cache:45 - TemplateLoader.findTemplateSource("index_en.ftlh"): Not found
+2023-12-06 22:01:45 DEBUG cache:45 - TemplateLoader.findTemplateSource("index.ftlh"): Not found
+2023-12-06 22:01:45 DEBUG cache:45 - "index.ftlh"("en", UTF-8, parsed) no source found.
+2023-12-06 22:02:59 INFO  MainController:58 - Try to load the main page
+2023-12-06 22:02:59 INFO  UserService:61 - User are not finding by google ID
+2023-12-06 22:02:59 DEBUG cache:45 - TemplateLoader.findTemplateSource("index_en.ftlh"): Not found
+2023-12-06 22:02:59 DEBUG cache:45 - TemplateLoader.findTemplateSource("index.ftlh"): Not found
+2023-12-06 22:02:59 DEBUG cache:45 - "index.ftlh"("en", UTF-8, parsed) no source found.
+2023-12-06 22:03:19 INFO  MainController:58 - Try to load the main page
+2023-12-06 22:03:19 INFO  UserService:61 - User are not finding by google ID
+2023-12-06 22:03:19 DEBUG cache:45 - TemplateLoader.findTemplateSource("index_en.ftlh"): Not found
+2023-12-06 22:03:19 DEBUG cache:45 - TemplateLoader.findTemplateSource("index.ftlh"): Not found
+2023-12-06 22:03:19 DEBUG cache:45 - "index.ftlh"("en", UTF-8, parsed) no source found.
+2023-12-06 22:03:51 INFO  UserService:61 - User are not finding by google ID
+2023-12-06 22:03:51 INFO  MainController:58 - Try to load the main page
+2023-12-06 22:03:51 INFO  UserService:61 - User are not finding by google ID
+2023-12-06 22:03:51 DEBUG cache:45 - TemplateLoader.findTemplateSource("index_en.ftlh"): Not found
+2023-12-06 22:03:51 DEBUG cache:45 - TemplateLoader.findTemplateSource("index.ftlh"): Not found
+2023-12-06 22:03:51 DEBUG cache:45 - "index.ftlh"("en", UTF-8, parsed) no source found.
+2023-12-06 22:03:58 INFO  MainController:58 - Try to load the main page
+2023-12-06 22:03:58 INFO  UserService:61 - User are not finding by google ID
+2023-12-06 22:03:58 DEBUG cache:45 - TemplateLoader.findTemplateSource("index_en.ftlh"): Not found
+2023-12-06 22:03:58 DEBUG cache:45 - TemplateLoader.findTemplateSource("index.ftlh"): Not found
+2023-12-06 22:03:58 DEBUG cache:45 - "index.ftlh"("en", UTF-8, parsed) no source found.
+2023-12-06 22:04:08 INFO  MainController:58 - Try to load the main page
+2023-12-06 22:04:08 ERROR ControllerUtils:45 - User are not find by principal
+2023-12-06 22:04:08 INFO  MainController:92 - User are not authorized
+2023-12-06 22:04:08 DEBUG cache:45 - TemplateLoader.findTemplateSource("index_en.ftlh"): Not found
+2023-12-06 22:04:08 DEBUG cache:45 - TemplateLoader.findTemplateSource("index.ftlh"): Not found
+2023-12-06 22:04:08 DEBUG cache:45 - "index.ftlh"("en", UTF-8, parsed) no source found.
+2023-12-06 22:04:11 DEBUG cache:45 - Couldn't find template in cache for "login.ftlh"("en", UTF-8, parsed); will try to load it.
+2023-12-06 22:04:11 DEBUG cache:45 - TemplateLoader.findTemplateSource("login_en.ftlh"): Not found
+2023-12-06 22:04:11 DEBUG cache:45 - TemplateLoader.findTemplateSource("login.ftlh"): Found
+2023-12-06 22:04:11 DEBUG cache:45 - Loading template for "login.ftlh"("en", UTF-8, parsed) from "D:\\GIT storage\\library\\target\\classes\\templates\\login.ftlh"
+2023-12-06 22:04:11 DEBUG cache:45 - "login.ftlh"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-12-06 22:04:11 DEBUG cache:45 - Couldn't find template in cache for "parts/common.ftlh"("en", UTF-8, parsed); will try to load it.
+2023-12-06 22:04:11 DEBUG cache:45 - TemplateLoader.findTemplateSource("parts/common_en.ftlh"): Not found
+2023-12-06 22:04:11 DEBUG cache:45 - TemplateLoader.findTemplateSource("parts/common.ftlh"): Found
+2023-12-06 22:04:11 DEBUG cache:45 - Loading template for "parts/common.ftlh"("en", UTF-8, parsed) from "D:\\GIT storage\\library\\target\\classes\\templates\\parts\\common.ftlh"
+2023-12-06 22:04:11 DEBUG cache:45 - Couldn't find template in cache for "parts/login.ftlh"("en", UTF-8, parsed); will try to load it.
+2023-12-06 22:04:11 DEBUG cache:45 - TemplateLoader.findTemplateSource("parts/login_en.ftlh"): Not found
+2023-12-06 22:04:11 DEBUG cache:45 - TemplateLoader.findTemplateSource("parts/login.ftlh"): Found
+2023-12-06 22:04:11 DEBUG cache:45 - Loading template for "parts/login.ftlh"("en", UTF-8, parsed) from "D:\\GIT storage\\library\\target\\classes\\templates\\parts\\login.ftlh"
+2023-12-06 22:04:16 INFO  UserService:69 - User are not finding by username
+2023-12-06 22:04:16 DEBUG cache:45 - "login.ftlh"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-12-06 22:04:16 DEBUG cache:45 - "login.ftlh"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-12-06 22:04:16 DEBUG cache:45 - "parts/common.ftlh"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-12-06 22:04:16 DEBUG cache:45 - "parts/login.ftlh"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-12-06 22:04:19 INFO  MainController:58 - Try to load the main page
+2023-12-06 22:04:19 DEBUG cache:45 - TemplateLoader.findTemplateSource("index_en.ftlh"): Not found
+2023-12-06 22:04:19 DEBUG cache:45 - TemplateLoader.findTemplateSource("index.ftlh"): Not found
+2023-12-06 22:04:19 DEBUG cache:45 - "index.ftlh"("en", UTF-8, parsed) no source found.
+2023-12-06 22:06:10 INFO  MainController:58 - Try to load the main page
+2023-12-06 22:06:10 DEBUG cache:45 - TemplateLoader.findTemplateSource("index_en.ftlh"): Not found
+2023-12-06 22:06:10 DEBUG cache:45 - TemplateLoader.findTemplateSource("index.ftlh"): Not found
+2023-12-06 22:06:10 DEBUG cache:45 - "index.ftlh"("en", UTF-8, parsed) no source found.
+2023-12-06 22:06:11 INFO  MainController:58 - Try to load the main page
+2023-12-06 22:06:11 DEBUG cache:45 - "index.ftlh"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-12-06 22:06:12 INFO  MainController:58 - Try to load the main page
+2023-12-06 22:06:12 DEBUG cache:45 - "index.ftlh"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-12-06 22:06:15 INFO  MainController:58 - Try to load the main page
+2023-12-06 22:06:15 DEBUG cache:45 - TemplateLoader.findTemplateSource("index_en.ftlh"): Not found
+2023-12-06 22:06:15 DEBUG cache:45 - TemplateLoader.findTemplateSource("index.ftlh"): Not found
+2023-12-06 22:06:15 DEBUG cache:45 - "index.ftlh"("en", UTF-8, parsed) no source found.
+2023-12-06 22:06:30 INFO  MainController:58 - Try to load the main page
+2023-12-06 22:06:30 DEBUG cache:45 - TemplateLoader.findTemplateSource("index_en.ftlh"): Not found
+2023-12-06 22:06:30 DEBUG cache:45 - TemplateLoader.findTemplateSource("index.ftlh"): Not found
+2023-12-06 22:06:30 DEBUG cache:45 - "index.ftlh"("en", UTF-8, parsed) no source found.
+2023-12-06 22:07:39 INFO  MainController:58 - Try to load the main page
+2023-12-06 22:07:39 DEBUG cache:45 - TemplateLoader.findTemplateSource("index_en.ftlh"): Not found
+2023-12-06 22:07:39 DEBUG cache:45 - TemplateLoader.findTemplateSource("index.ftlh"): Not found
+2023-12-06 22:07:39 DEBUG cache:45 - "index.ftlh"("en", UTF-8, parsed) no source found.
+2023-12-06 22:07:52 INFO  MainController:58 - Try to load the main page
+2023-12-06 22:07:52 DEBUG cache:45 - TemplateLoader.findTemplateSource("index_en.ftlh"): Not found
+2023-12-06 22:07:52 DEBUG cache:45 - TemplateLoader.findTemplateSource("index.ftlh"): Not found
+2023-12-06 22:07:52 DEBUG cache:45 - "index.ftlh"("en", UTF-8, parsed) no source found.
+2023-12-06 22:07:55 INFO  MainController:58 - Try to load the main page
+2023-12-06 22:07:55 DEBUG cache:45 - "index.ftlh"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-12-06 22:07:55 INFO  MainController:58 - Try to load the main page
+2023-12-06 22:07:55 DEBUG cache:45 - "index.ftlh"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-12-06 22:07:57 INFO  MainController:58 - Try to load the main page
+2023-12-06 22:07:57 DEBUG cache:45 - "index.ftlh"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-12-06 22:09:13 INFO  MainController:58 - Try to load the main page
+2023-12-06 22:09:13 DEBUG cache:45 - TemplateLoader.findTemplateSource("index_en.ftlh"): Not found
+2023-12-06 22:09:13 DEBUG cache:45 - TemplateLoader.findTemplateSource("index.ftlh"): Not found
+2023-12-06 22:09:13 DEBUG cache:45 - "index.ftlh"("en", UTF-8, parsed) no source found.
+2023-12-06 22:09:34 INFO  MainController:58 - Try to load the main page
+2023-12-06 22:09:34 DEBUG cache:45 - TemplateLoader.findTemplateSource("index_en.ftlh"): Not found
+2023-12-06 22:09:34 DEBUG cache:45 - TemplateLoader.findTemplateSource("index.ftlh"): Not found
+2023-12-06 22:09:34 DEBUG cache:45 - "index.ftlh"("en", UTF-8, parsed) no source found.
+2023-12-06 22:09:45 INFO  MainController:58 - Try to load the main page
+2023-12-06 22:09:45 DEBUG cache:45 - TemplateLoader.findTemplateSource("index_en.ftlh"): Not found
+2023-12-06 22:09:45 DEBUG cache:45 - TemplateLoader.findTemplateSource("index.ftlh"): Not found
+2023-12-06 22:09:45 DEBUG cache:45 - "index.ftlh"("en", UTF-8, parsed) no source found.
+2023-12-06 22:09:48 INFO  MainController:58 - Try to load the main page
+2023-12-06 22:09:48 ERROR ControllerUtils:45 - User are not find by principal
+2023-12-06 22:09:48 INFO  MainController:92 - User are not authorized
+2023-12-06 22:09:48 DEBUG cache:45 - "index.ftlh"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-12-06 22:09:55 INFO  MainController:58 - Try to load the main page
+2023-12-06 22:09:55 INFO  UserService:61 - User are not finding by google ID
+2023-12-06 22:09:55 DEBUG cache:45 - TemplateLoader.findTemplateSource("index_en.ftlh"): Not found
+2023-12-06 22:09:55 DEBUG cache:45 - TemplateLoader.findTemplateSource("index.ftlh"): Not found
+2023-12-06 22:09:55 DEBUG cache:45 - "index.ftlh"("en", UTF-8, parsed) no source found.
+2023-12-06 22:09:57 INFO  MainController:58 - Try to load the main page
+2023-12-06 22:09:57 INFO  UserService:61 - User are not finding by google ID
+2023-12-06 22:09:57 DEBUG cache:45 - "index.ftlh"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-12-06 22:10:08 INFO  UserService:61 - User are not finding by google ID
+2023-12-06 22:10:12 INFO  MainController:58 - Try to load the main page
+2023-12-06 22:10:12 INFO  UserService:61 - User are not finding by google ID
+2023-12-06 22:10:12 DEBUG cache:45 - TemplateLoader.findTemplateSource("index_en.ftlh"): Not found
+2023-12-06 22:10:12 DEBUG cache:45 - TemplateLoader.findTemplateSource("index.ftlh"): Not found
+2023-12-06 22:10:12 DEBUG cache:45 - "index.ftlh"("en", UTF-8, parsed) no source found.
+2023-12-06 22:10:14 INFO  MainController:58 - Try to load the main page
+2023-12-06 22:10:14 INFO  UserService:61 - User are not finding by google ID
+2023-12-06 22:10:14 DEBUG cache:45 - "index.ftlh"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-12-06 22:10:19 INFO  UserService:61 - User are not finding by google ID
+2023-12-06 22:10:19 INFO  UserService:61 - User are not finding by google ID
+2023-12-06 22:10:21 INFO  UserService:61 - User are not finding by google ID
+2023-12-06 22:10:25 INFO  UserService:61 - User are not finding by google ID
+2023-12-06 22:10:25 INFO  UserService:61 - User are not finding by google ID
+2023-12-06 22:10:28 INFO  MainController:58 - Try to load the main page
+2023-12-06 22:10:28 INFO  UserService:61 - User are not finding by google ID
+2023-12-06 22:10:28 DEBUG cache:45 - TemplateLoader.findTemplateSource("index_en.ftlh"): Not found
+2023-12-06 22:10:28 DEBUG cache:45 - TemplateLoader.findTemplateSource("index.ftlh"): Not found
+2023-12-06 22:10:28 DEBUG cache:45 - "index.ftlh"("en", UTF-8, parsed) no source found.
+2023-12-06 22:10:43 INFO  UserService:61 - User are not finding by google ID
+2023-12-06 22:10:43 INFO  UserService:61 - User are not finding by google ID
+2023-12-06 22:10:45 INFO  UserService:61 - User are not finding by google ID
+2023-12-06 22:10:49 INFO  UserService:61 - User are not finding by google ID
+2023-12-06 22:10:49 INFO  UserService:61 - User are not finding by google ID
+2023-12-06 22:10:52 INFO  MainController:58 - Try to load the main page
+2023-12-06 22:10:52 INFO  UserService:61 - User are not finding by google ID
+2023-12-06 22:10:52 DEBUG cache:45 - TemplateLoader.findTemplateSource("index_en.ftlh"): Not found
+2023-12-06 22:10:52 DEBUG cache:45 - TemplateLoader.findTemplateSource("index.ftlh"): Not found
+2023-12-06 22:10:52 DEBUG cache:45 - "index.ftlh"("en", UTF-8, parsed) no source found.
+2023-12-06 22:11:08 INFO  MainController:58 - Try to load the main page
+2023-12-06 22:11:08 ERROR ControllerUtils:45 - User are not find by principal
+2023-12-06 22:11:08 INFO  MainController:92 - User are not authorized
+2023-12-06 22:11:08 DEBUG cache:45 - TemplateLoader.findTemplateSource("index_en.ftlh"): Not found
+2023-12-06 22:11:08 DEBUG cache:45 - TemplateLoader.findTemplateSource("index.ftlh"): Not found
+2023-12-06 22:11:08 DEBUG cache:45 - "index.ftlh"("en", UTF-8, parsed) no source found.
+2023-12-06 22:11:10 DEBUG cache:45 - TemplateLoader.findTemplateSource("login_en.ftlh"): Not found
+2023-12-06 22:11:10 DEBUG cache:45 - TemplateLoader.findTemplateSource("login.ftlh"): Found
+2023-12-06 22:11:10 DEBUG cache:45 - "login.ftlh"("en", UTF-8, parsed): using cached since D:\GIT storage\library\target\classes\templates\login.ftlh hasn't changed.
+2023-12-06 22:11:10 DEBUG cache:45 - "login.ftlh"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-12-06 22:11:10 DEBUG cache:45 - TemplateLoader.findTemplateSource("parts/common_en.ftlh"): Not found
+2023-12-06 22:11:10 DEBUG cache:45 - TemplateLoader.findTemplateSource("parts/common.ftlh"): Found
+2023-12-06 22:11:10 DEBUG cache:45 - "parts/common.ftlh"("en", UTF-8, parsed): using cached since D:\GIT storage\library\target\classes\templates\parts\common.ftlh hasn't changed.
+2023-12-06 22:11:10 DEBUG cache:45 - TemplateLoader.findTemplateSource("parts/login_en.ftlh"): Not found
+2023-12-06 22:11:10 DEBUG cache:45 - TemplateLoader.findTemplateSource("parts/login.ftlh"): Found
+2023-12-06 22:11:10 DEBUG cache:45 - "parts/login.ftlh"("en", UTF-8, parsed): using cached since D:\GIT storage\library\target\classes\templates\parts\login.ftlh hasn't changed.
+2023-12-06 22:11:14 INFO  UserService:69 - User are not finding by username
+2023-12-06 22:11:14 DEBUG cache:45 - "login.ftlh"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-12-06 22:11:14 DEBUG cache:45 - "login.ftlh"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-12-06 22:11:14 DEBUG cache:45 - "parts/common.ftlh"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-12-06 22:11:14 DEBUG cache:45 - "parts/login.ftlh"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-12-06 22:11:18 INFO  UserService:69 - User are not finding by username
+2023-12-06 22:11:18 DEBUG cache:45 - TemplateLoader.findTemplateSource("login_en.ftlh"): Not found
+2023-12-06 22:11:18 DEBUG cache:45 - TemplateLoader.findTemplateSource("login.ftlh"): Found
+2023-12-06 22:11:18 DEBUG cache:45 - "login.ftlh"("en", UTF-8, parsed): using cached since D:\GIT storage\library\target\classes\templates\login.ftlh hasn't changed.
+2023-12-06 22:11:18 DEBUG cache:45 - "login.ftlh"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-12-06 22:11:18 DEBUG cache:45 - TemplateLoader.findTemplateSource("parts/common_en.ftlh"): Not found
+2023-12-06 22:11:18 DEBUG cache:45 - TemplateLoader.findTemplateSource("parts/common.ftlh"): Found
+2023-12-06 22:11:18 DEBUG cache:45 - "parts/common.ftlh"("en", UTF-8, parsed): using cached since D:\GIT storage\library\target\classes\templates\parts\common.ftlh hasn't changed.
+2023-12-06 22:11:18 DEBUG cache:45 - TemplateLoader.findTemplateSource("parts/login_en.ftlh"): Not found
+2023-12-06 22:11:18 DEBUG cache:45 - TemplateLoader.findTemplateSource("parts/login.ftlh"): Found
+2023-12-06 22:11:18 DEBUG cache:45 - "parts/login.ftlh"("en", UTF-8, parsed): using cached since D:\GIT storage\library\target\classes\templates\parts\login.ftlh hasn't changed.
+2023-12-06 22:11:21 INFO  MainController:58 - Try to load the main page
+2023-12-06 22:11:21 DEBUG cache:45 - TemplateLoader.findTemplateSource("index_en.ftlh"): Not found
+2023-12-06 22:11:21 DEBUG cache:45 - TemplateLoader.findTemplateSource("index.ftlh"): Not found
+2023-12-06 22:11:21 DEBUG cache:45 - "index.ftlh"("en", UTF-8, parsed) no source found.

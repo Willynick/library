@@ -17,7 +17,7 @@
                         size="48px"
                         color="indigo"
                 >
-                    <v-icon dark>account_circle</v-icon>
+                    <v-icon dark>mdi-account_circle</v-icon>
                 </v-avatar>
                 <span class="pl-3">{{ authorName }}</span>
             </div>
@@ -29,7 +29,7 @@
             <v-btn @click="addToCart" text rounded color="primary">Add to cart</v-btn>
             <v-btn v-if="isAdmin" value="Edit" @click="edit" text rounded>Edit</v-btn>
             <v-btn v-if="isAdmin" icon @click="del">
-                <v-icon>delete</v-icon>
+                <v-icon>mdi-delete</v-icon>
             </v-btn>
         </v-card-actions>
         <comment-list class="px-3"

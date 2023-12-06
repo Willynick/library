@@ -14,8 +14,8 @@
                 show-expand
                 class="mt-4 elevation-1"
                 :footer-props="{
-      prevIcon: 'keyboard_arrow_left',
-      nextIcon: 'keyboard_arrow_right'
+      prevIcon: 'mdi-chevron-left',
+      nextIcon: 'mdi-chevron-right'
     }"
         >
             <template v-slot:top>

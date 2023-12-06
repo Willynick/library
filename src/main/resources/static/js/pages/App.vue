@@ -1,7 +1,9 @@
 <template>
     <v-app>
         <v-app-bar app>
-            <v-toolbar-title>Online Library</v-toolbar-title>
+            <v-toolbar-title>
+              ABH Library
+            </v-toolbar-title>
             <v-btn class="ml-2" text
                    v-if="profile"
                    :disabled="$route.path === '/'"
@@ -40,7 +42,7 @@
                         overlap
                 >
 
-                    <v-icon large>shopping_cart</v-icon>
+                  <v-icon large>mdi-cart</v-icon>
                 </v-badge>
             </v-btn>
             <v-btn text
@@ -50,7 +52,7 @@
                 {{profile.username}}
             </v-btn>
             <v-btn v-if="profile" icon href="/logout">
-                <v-icon>exit_to_app</v-icon>
+                <v-icon>mdi-exit-to-app</v-icon>
             </v-btn>
         </v-app-bar>
         <v-content>
