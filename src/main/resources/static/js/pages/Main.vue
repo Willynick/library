@@ -15,7 +15,7 @@
 
             <v-card-text class="text--primary">
                 <strong>What is an online library?</strong><br>
-                The OU Library provides you with access to an amazing range of online resources to explore the subjects you are passionate about.  We will also help you to develop skills that will support you as you study, at work or in everyday life.<br><br>
+                The ABH Library provides you with access to an amazing range of online resources to explore the subjects you are passionate about.  We will also help you to develop skills that will support you as you study, at work or in everyday life.<br><br>
 
                 <strong>Why use the online library?</strong><br>
                 The online library gives you access to quality-assured and trusted resources that are selected and assessed by subject specialists and academics.<br><br>
